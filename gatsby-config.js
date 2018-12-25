@@ -38,6 +38,27 @@ module.exports = {
         path: `${__dirname}/src/pages`,
         name: 'pages'
       }
+    },
+    {
+    resolve: 'gatsby-plugin-favicon',
+    options: {
+        logo: "./src/usyd-logo.png",
+
+        icons: {
+        android: true,
+        appleIcon: true,
+        appleStartup: true,
+        coast: false,
+        favicons: true,
+        firefox: true,
+        opengraph: false,
+        twitter: false,
+        yandex: false,
+        windows: false
+      }
     }
+    },
+
+    
   ],
 }
