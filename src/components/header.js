@@ -13,10 +13,11 @@ const Header = ({ siteTitle }) => (
     style={{
       marginTop: '2rem',
       marginBottom: '1.5rem',
-      marginLeft: '2.5rem'
+      marginLeft: '2.5rem',
+
     }}
   >
-      <ul style={{ listStyle: `none`, float: `right`, marginRight: '0.5em', color: 'black' }}>
+      <ul style={{listStyle: `none`, float: `right`,  width: '100%', fontColor: 'black', textAlign: 'right', fontSize: '1em' }}>
         <ListLink to="/">Home</ListLink>
         <ListLink to="/about/">About</ListLink>
         <ListLink to="/contact/">Contact</ListLink>
@@ -26,7 +27,7 @@ const Header = ({ siteTitle }) => (
       style={{
         margin: '0 auto',
         textAlign: 'center',
-        maxWidth: 960,
+        maxWidth: 900,
         padding: '1.45rem 1.0875rem',
       }}
     >
@@ -35,8 +36,10 @@ const Header = ({ siteTitle }) => (
           to="/"
           style={{
             color: 'black',
-            fontFamily: 'Courier, monospace',
+            fontFamily: 'georgia, monospace',
             textDecoration: 'none',
+            textAlign: 'center',
+            fontsize: '0.7em'
           }}
         >
           {siteTitle}

@@ -20,8 +20,8 @@ const IndexPage = (props) => {
   console.log(subjects);
   return (
     <Layout>
-        <h2 style={{textAlign: 'center', fontFamily: 'courier, monospace'}}>Resources</h2>
-        <h4 style={{marginTop: '3em', marginBottom: '2em'}}> Below are resources for the course content. They are categorised on a weekly basis. You will find a tutorial post with the corresponding Jupyter Notebook attached to the bottom of the post.</h4>
+        <h2 style={{textAlign: 'center', fontFamily: 'georgia, monospace'}}>Resources</h2>
+        <p style={{marginTop: '3em', marginBottom: '2em', textAlign: 'center'}}> This course aims to be an introduction to beginner level Python and Data science. Below are resources for the course content. They are categorised on a weekly basis. You will find a tutorial post with the corresponding Jupyter Notebook attached to the bottom of the post.</p>
         <Accordion>
         {subjects.map((arr, i) => (
           <AccordionItem key={arr[0].node.fields.slug.split('/')[1]}>

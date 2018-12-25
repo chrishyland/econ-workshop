@@ -4,12 +4,48 @@ description: First look into Python and Data Science
 date: '2018-12-30'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu nulla ac lectus vestibulum efficitur sed sit amet magna. Nulla cursus lorem nibh, ullamcorper rutrum arcu ultricies eget. Duis fermentum, nibh nec ornare feugiat, tortor nibh dapibus augue, quis porttitor erat velit sed nunc. Ut ultrices elit a interdum tincidunt. Donec viverra blandit metus, at commodo felis pulvinar sit amet. Donec sit amet mauris pellentesque, rhoncus nisi rutrum, porta ligula. Vivamus luctus mi nec interdum interdum. Aenean non mattis diam. Maecenas tortor ipsum, fringilla aliquet eros in, dapibus bibendum dolor.
+# Introduction
+### Motivation
 
-Duis venenatis dapibus leo, vitae porttitor sem. Praesent odio odio, varius sit amet suscipit et, dictum nec mi. Duis ante ligula, molestie a bibendum in, ornare in nulla. Fusce augue augue, eleifend quis mi sit amet, egestas rhoncus ipsum. Curabitur orci lorem, volutpat at ultricies non, pellentesque sit amet nunc. Vestibulum ipsum mauris, condimentum ut dictum at, volutpat ut purus. Nam cursus eros tellus, vel molestie ligula pulvinar a.
+The purpose of the ECM is to capture show the short-run dynamics of the variables n the system are influenced by the deviation from the long-run equilibrium. If we are out of equilibrium, then we will move back into the equilibrium, and the model captures this. We difference the data to ensure that any regressions will not be spurious (for reasons mentioned in 1). However, if we just differenced them and regressed them on another, we fail to capture the long-run relationship between the 2 variables that exists (due to the fact they are cointegrated). Hence, we can capture that with the ECM as any time series that is not in equilibrium will move back into equilibrium according to the magnitude of the disequilibrium.
 
-Aliquam erat volutpat. Maecenas non enim orci. Pellentesque sollicitudin in urna pharetra ultricies. Vivamus non quam ligula. Aenean magna sapien, porta nec varius eu, ultrices et nunc. Phasellus pretium nisi vitae arcu cursus maximus. Sed in sapien et elit vestibulum dignissim. Integer at tellus accumsan, ultricies ipsum sit amet, consequat sapien. Quisque et nunc sed tortor tincidunt consectetur. Aliquam a dictum lorem, in congue quam. Integer rhoncus volutpat metus, quis eleifend nibh lobortis at. Sed ac leo id erat pellentesque gravida vel nec nulla. Nam non egestas elit, vel elementum lectus. Nunc ut turpis et nibh maximus imperdiet quis ac ex. Maecenas sollicitudin libero et risus interdum blandit.
+---
+### Derivation 
 
-Aenean consectetur auctor orci, vel auctor nisl posuere id. Quisque in blandit urna. Etiam iaculis metus in convallis suscipit. Duis ut turpis vel magna efficitur convallis. Ut aliquam eros eu sapien molestie, eu iaculis quam rutrum. In pulvinar vestibulum imperdiet. Pellentesque nisi orci, gravida rutrum est ut, volutpat volutpat lorem.
 
-Suspendisse venenatis lorem urna, interdum ultricies magna viverra et. Aliquam aliquam justo sit amet vulputate sodales. Vestibulum id porttitor tellus. Pellentesque tempor efficitur placerat. Morbi et magna id leo ultricies viverra non lacinia diam. Vestibulum vehicula, mi id consectetur iaculis, ipsum nulla luctus magna, ultricies consectetur quam nulla vitae augue. Phasellus sit amet massa eget elit fringilla bibendum.
+First we begin with 2 I(1) variables that are cointegrated $$y_t$$ and $$z_t$$. From this, we know that we can express it as:
+
+$$\eta_t = y_t - \alpha - \beta z_t$$
+
+We will keep this in mind for later. Now let us define our general model whereby we are looking at the relationship between $$y_t$$ and $$z_t$$ alongside 1 lag.
+
+$$y_t = \alpha_0 + \alpha_1y_{t-1} + \beta_0z_t + \beta_1z_{t-1} + \epsilon_t$$
+
+We note that $$y_t$$ and $$z_t$$ are I(1), so we need to difference them. First we difference $$y_t$$
+
+$$y_t - y_{t-1}= \alpha_0 + \alpha_1y_{t-1} - y_{t-1} + \beta_0z_t + \beta_1z_{t-1} + \epsilon_t$$
+
+$$\Delta y_t = \alpha_0 + (\alpha_1 - 1)y_{t-1} + \beta_0z_t + \beta_1z_{t-1} + \epsilon_t$$
+
+Then we add and subtract $$\beta_0 Z_{t-1}$$ on the RHS to difference it.
+
+$$\Delta y_t = \alpha_0 + (\alpha_1 - 1)y_{t-1} + \beta_0z_t  - \beta_0 z_{t-1} + \beta_0 z_{t-1} + \beta_1z_{t-1} + \epsilon_t$$
+
+$$\Delta y_t = \alpha_0 + (\alpha_1 - 1)y_{t-1} + \beta_0\Delta z_t + \beta_0z_{t-1} + \beta_1z_{t-1} + \epsilon_t$$
+
+We can then do this little trick:
+
+$$\Delta y_t = \alpha_0 - (1 - \alpha_1)y_{t-1} + \beta_0\Delta z_t + \beta_0z_{t-1} + \beta_1z_{t-1} + \epsilon_t$$
+
+$$\Delta y_t = \delta + \beta_0\Delta z_t - (1 - \alpha_1)[y_{t-1} - \frac{\beta_0 + \beta_1}{1 - \alpha_1}z_{t-1} - \alpha) +  \epsilon_t$$
+
+where if you look carefully, I split the $$\alpha_0$$ term up into $$\delta$$ and $$\alpha$$. Note also the term in the bracket is simply $$\eta_{t-1}$$.
+
+$$\Delta y_t = \delta + \beta_0\Delta z_t - (1 - \alpha_1)[\eta_{t-1}] +  \epsilon_t$$
+
+$$\Delta y_t = \delta + \beta_0\Delta z_t + (\alpha_1 - 1)[\eta_{t-1}] +  \epsilon_t$$
+
+We can then redefine some of the variables to match the standard notation.
+
+$$\Delta y_t = \delta + \theta\Delta z_t + \gamma\eta_{t-1} +  \epsilon_t$$
+

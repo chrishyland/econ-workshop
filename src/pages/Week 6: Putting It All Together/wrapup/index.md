@@ -4,12 +4,90 @@ description: Putting all the steps together
 date: '2018-12-23'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eu nulla ac lectus vestibulum efficitur sed sit amet magna. Nulla cursus lorem nibh, ullamcorper rutrum arcu ultricies eget. Duis fermentum, nibh nec ornare feugiat, tortor nibh dapibus augue, quis porttitor erat velit sed nunc. Ut ultrices elit a interdum tincidunt. Donec viverra blandit metus, at commodo felis pulvinar sit amet. Donec sit amet mauris pellentesque, rhoncus nisi rutrum, porta ligula. Vivamus luctus mi nec interdum interdum. Aenean non mattis diam. Maecenas tortor ipsum, fringilla aliquet eros in, dapibus bibendum dolor.
+## Introduction
+> Function pointers are literally pointers to functions.
 
-Duis venenatis dapibus leo, vitae porttitor sem. Praesent odio odio, varius sit amet suscipit et, dictum nec mi. Duis ante ligula, molestie a bibendum in, ornare in nulla. Fusce augue augue, eleifend quis mi sit amet, egestas rhoncus ipsum. Curabitur orci lorem, volutpat at ultricies non, pellentesque sit amet nunc. Vestibulum ipsum mauris, condimentum ut dictum at, volutpat ut purus. Nam cursus eros tellus, vel molestie ligula pulvinar a.
+Function pointers are just what their name suggests, they are pointers to functions! In particular, a function pointer points to code (rather than data like what we are normally used to) and stores the start of executable code. Let’s just get straight to some code.
 
-Aliquam erat volutpat. Maecenas non enim orci. Pellentesque sollicitudin in urna pharetra ultricies. Vivamus non quam ligula. Aenean magna sapien, porta nec varius eu, ultrices et nunc. Phasellus pretium nisi vitae arcu cursus maximus. Sed in sapien et elit vestibulum dignissim. Integer at tellus accumsan, ultricies ipsum sit amet, consequat sapien. Quisque et nunc sed tortor tincidunt consectetur. Aliquam a dictum lorem, in congue quam. Integer rhoncus volutpat metus, quis eleifend nibh lobortis at. Sed ac leo id erat pellentesque gravida vel nec nulla. Nam non egestas elit, vel elementum lectus. Nunc ut turpis et nibh maximus imperdiet quis ac ex. Maecenas sollicitudin libero et risus interdum blandit.
+```python
 
-Aenean consectetur auctor orci, vel auctor nisl posuere id. Quisque in blandit urna. Etiam iaculis metus in convallis suscipit. Duis ut turpis vel magna efficitur convallis. Ut aliquam eros eu sapien molestie, eu iaculis quam rutrum. In pulvinar vestibulum imperdiet. Pellentesque nisi orci, gravida rutrum est ut, volutpat volutpat lorem.
+void print_stuff(int a)
+{
+  printf("Hi there, I am %d\n", a);
+}
 
-Suspendisse venenatis lorem urna, interdum ultricies magna viverra et. Aliquam aliquam justo sit amet vulputate sodales. Vestibulum id porttitor tellus. Pellentesque tempor efficitur placerat. Morbi et magna id leo ultricies viverra non lacinia diam. Vestibulum vehicula, mi id consectetur iaculis, ipsum nulla luctus magna, ultricies consectetur quam nulla vitae augue. Phasellus sit amet massa eget elit fringilla bibendum.
+int main()
+{
+  // Pointer is void type and points to print_stuff function.
+  // (int) lets us know what TYPE are the arguments for the function.
+  void (*func_ptr)(int) = &print_stuff;
+  
+  // To call the function, we go:
+  (*func_ptr)(20);
+  // Here, we dereferenced the pointer and also passed in inputs for it.
+  // Note this also works even if we removed the *
+}
+```
+>
+Hi there, I am 20
+
+Note that when we declared our function pointer, it is extremely important that we have those brackets around \*func_ptr or else it will be confused for a declaration of a function that returns void pointers. 
+
+A clearer illustration of when we would use a function pointer would be when we don’t know what the functions are at compile time.
+
+```python
+#include <stdio.h>
+
+// Here we declare a function.
+void do_stuff(int x);
+
+int main()
+{
+    void (*func_ptr)(int) = &do_stuff;
+    (*func_ptr)(4);
+}
+
+void do_stuff(int x)
+{
+  printf("Done stuff with %d\n",x);
+}
+```
+
+> Done stuff with 4
+
+So why else might we be bothered with function pointers?
+* Efficiency
+* Elegance
+* Runtime binding whereby we can change the function up depending on what we feed the function at runtime
+
+Note that with these pointers, we do not need to de-allocate memory as we are not pointing to memory.
+
+---
+
+Here's another example just to drill this home:
+```python
+// Our function
+int add_numbers(int x, int y)
+{
+  return x + y;
+}
+
+// Our FUNCTION POINTER:
+int (*func_ptr)(int, int);
+
+// Again, this points to a function that returns an int and takes in 2 ints as arguments.
+
+// Now to point it to a function:
+func_ptr = &add_numbers;
+
+// To actually use this function pointer:
+int sum = (*func_ptr)(5, 10);
+
+// Here, we dereference our function pointer and pass in our arguments for the function.
+
+// Altenrative
+int sum = func_ptr(5, 10);
+```
+
+## Summary
+Function pointers are just an address referring to an area of memory with executable code.
