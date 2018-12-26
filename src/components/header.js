@@ -36,7 +36,7 @@ const Header = ({ siteTitle }) => (
           to="/"
           style={{
             color: 'black',
-            fontFamily: 'georgia, monospace',
+            fontFamily: 'arial',
             textDecoration: 'none',
             textAlign: 'center',
             fontsize: '0.7em'

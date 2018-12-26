@@ -16,6 +16,16 @@
     },
     {
         "componentChunkName": "component---src-templates-notes-js",
+        "jsonName": "setting-up-coding-environment-0c2",
+        "path": "/Setting Up/coding-environment/"
+    },
+    {
+        "componentChunkName": "component---src-templates-notes-js",
+        "jsonName": "setting-up-programming-tips-ff7",
+        "path": "/Setting Up/programming-tips/"
+    },
+    {
+        "componentChunkName": "component---src-templates-notes-js",
         "jsonName": "setup-coding-environment-185",
         "path": "/Setup/coding-environment/"
     },
@@ -53,6 +63,36 @@
         "componentChunkName": "component---src-templates-notes-js",
         "jsonName": "week-6-putting-it-all-together-wrapup-07e",
         "path": "/Week 6: Putting It All Together/wrapup/"
+    },
+    {
+        "componentChunkName": "component---src-templates-notes-js",
+        "jsonName": "week-five-data-cleaning-data-cleaning-b32",
+        "path": "/Week Five: Data Cleaning/data-cleaning/"
+    },
+    {
+        "componentChunkName": "component---src-templates-notes-js",
+        "jsonName": "week-four-models-and-diagnostics-part-two-models-part-two-254",
+        "path": "/Week Four: Models and Diagnostics Part Two/models-part-two/"
+    },
+    {
+        "componentChunkName": "component---src-templates-notes-js",
+        "jsonName": "week-one-introduction-setup-ba0",
+        "path": "/Week One: Introduction/setup/"
+    },
+    {
+        "componentChunkName": "component---src-templates-notes-js",
+        "jsonName": "week-six-putting-it-all-together-wrapup-37a",
+        "path": "/Week Six: Putting It All Together/wrapup/"
+    },
+    {
+        "componentChunkName": "component---src-templates-notes-js",
+        "jsonName": "week-three-models-and-diagnostics-part-one-models-part-one-26d",
+        "path": "/Week Three: Models and Diagnostics Part One/models-part-one/"
+    },
+    {
+        "componentChunkName": "component---src-templates-notes-js",
+        "jsonName": "week-two-data-wrangling-data-wrangling-7b2",
+        "path": "/Week Two: Data Wrangling/data-wrangling/"
     },
     {
         "componentChunkName": "component---src-pages-about-js",

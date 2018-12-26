@@ -199,7 +199,7 @@ html {
 }
 body {
   color: hsla(0, 0%, 0%, 0.8);
-  font-family: georgia, serif;
+  font-family: arial, serif;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -229,7 +229,7 @@ h1 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'arial', monospace;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
