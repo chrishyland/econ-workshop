@@ -1543,18 +1543,16 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Data Science for Economists"
+        "title": "Coding for Economists"
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2018-12-26T02:36:51.617Z",
+      "buildTime": "2018-12-30T04:04:24.857Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "013b02b3c686ff172545e6a0f85c728d",
+        "contentDigest": "1e654370f7c883e3fba7b587ee1896e8",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1564,7 +1562,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fa6509cbee88171c007438983013f2d8",
+        "contentDigest": "531a224a030278475c93b1e2034ddf01",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1575,9 +1573,9 @@
       "extension": "",
       "size": 448,
       "prettySize": "448 B",
-      "modifiedTime": "2018-12-25T02:00:38.575Z",
-      "accessTime": "2018-12-26T02:36:54.306Z",
-      "changeTime": "2018-12-25T02:00:38.575Z",
+      "modifiedTime": "2018-12-26T03:06:52.302Z",
+      "accessTime": "2018-12-30T04:04:30.577Z",
+      "changeTime": "2018-12-26T03:06:52.302Z",
       "birthTime": "2018-12-24T09:57:07.013Z",
       "root": "/",
       "dir": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src",
@@ -1594,13 +1592,13 @@
       "blksize": 4096,
       "ino": 10558898,
       "blocks": 0,
-      "atimeMs": 1545791814305.5103,
-      "mtimeMs": 1545703238574.9812,
-      "ctimeMs": 1545703238574.9812,
+      "atimeMs": 1546142670577.085,
+      "mtimeMs": 1545793612301.8865,
+      "ctimeMs": 1545793612301.8865,
       "birthtimeMs": 1545645427013.1426,
-      "atime": "2018-12-26T02:36:54.306Z",
-      "mtime": "2018-12-25T02:00:38.575Z",
-      "ctime": "2018-12-25T02:00:38.575Z",
+      "atime": "2018-12-30T04:04:30.577Z",
+      "mtime": "2018-12-26T03:06:52.302Z",
+      "ctime": "2018-12-26T03:06:52.302Z",
       "birthtime": "2018-12-24T09:57:07.013Z"
     },
     "6de5f64c-48d6-522b-ad6c-e83fb54b99c9": {
@@ -1743,7 +1741,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "858fa79840f8b0c30c81730641458807",
+        "contentDigest": "c38fd621d231b1990d42f5123d285714",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/index.js\"",
@@ -1753,11 +1751,11 @@
       "absolutePath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/index.js",
       "relativePath": "index.js",
       "extension": "js",
-      "size": 1937,
-      "prettySize": "1.94 kB",
-      "modifiedTime": "2018-12-26T02:36:45.948Z",
-      "accessTime": "2018-12-26T02:36:50.181Z",
-      "changeTime": "2018-12-26T02:36:45.948Z",
+      "size": 1948,
+      "prettySize": "1.95 kB",
+      "modifiedTime": "2018-12-30T04:10:13.556Z",
+      "accessTime": "2018-12-30T04:09:50.920Z",
+      "changeTime": "2018-12-30T04:10:13.556Z",
       "birthTime": "2018-12-24T09:57:07.015Z",
       "root": "/",
       "dir": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages",
@@ -1774,13 +1772,13 @@
       "blksize": 4096,
       "ino": 10558909,
       "blocks": 8,
-      "atimeMs": 1545791810180.7046,
-      "mtimeMs": 1545791805947.8015,
-      "ctimeMs": 1545791805947.8015,
+      "atimeMs": 1546142990920.0068,
+      "mtimeMs": 1546143013555.921,
+      "ctimeMs": 1546143013555.921,
       "birthtimeMs": 1545645427014.6628,
-      "atime": "2018-12-26T02:36:50.181Z",
-      "mtime": "2018-12-26T02:36:45.948Z",
-      "ctime": "2018-12-26T02:36:45.948Z",
+      "atime": "2018-12-30T04:09:50.920Z",
+      "mtime": "2018-12-30T04:10:13.556Z",
+      "ctime": "2018-12-30T04:10:13.556Z",
       "birthtime": "2018-12-24T09:57:07.015Z"
     },
     "26f2073d-e62c-5910-84f4-d92d26e1b23c": {
@@ -1788,7 +1786,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0b9893d1f82fd9307f66577c88d5b133",
+        "contentDigest": "a87d7a987b91f619339a6e3f1e4e7fd3",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/about.js\"",
@@ -1798,11 +1796,11 @@
       "absolutePath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/about.js",
       "relativePath": "about.js",
       "extension": "js",
-      "size": 1854,
-      "prettySize": "1.85 kB",
-      "modifiedTime": "2018-12-26T03:16:13.739Z",
-      "accessTime": "2018-12-26T03:16:06.724Z",
-      "changeTime": "2018-12-26T03:16:13.739Z",
+      "size": 1880,
+      "prettySize": "1.88 kB",
+      "modifiedTime": "2018-12-26T08:38:56.734Z",
+      "accessTime": "2018-12-29T10:31:24.139Z",
+      "changeTime": "2018-12-26T08:38:56.734Z",
       "birthTime": "2018-12-24T10:08:20.320Z",
       "root": "/",
       "dir": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages",
@@ -1819,297 +1817,21 @@
       "blksize": 4096,
       "ino": 10607455,
       "blocks": 8,
-      "atimeMs": 1545794166724.3052,
-      "mtimeMs": 1545794173739.1543,
-      "ctimeMs": 1545794173739.1543,
+      "atimeMs": 1546079484138.732,
+      "mtimeMs": 1545813536733.875,
+      "ctimeMs": 1545813536733.875,
       "birthtimeMs": 1545646100319.5264,
-      "atime": "2018-12-26T03:16:06.724Z",
-      "mtime": "2018-12-26T03:16:13.739Z",
-      "ctime": "2018-12-26T03:16:13.739Z",
+      "atime": "2018-12-29T10:31:24.139Z",
+      "mtime": "2018-12-26T08:38:56.734Z",
+      "ctime": "2018-12-26T08:38:56.734Z",
       "birthtime": "2018-12-24T10:08:20.320Z"
-    },
-    "SitePage /Setup/coding-environment/": {
-      "jsonName": "setup-coding-environment-185",
-      "internalComponentName": "ComponentSetupCodingEnvironment",
-      "path": "/Setup/coding-environment/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Setup/coding-environment/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Setup/coding-environment/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4b87121955726e646698fe6c1e054623",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Week 1: Introduction/setup/": {
-      "jsonName": "week-1-introduction-setup-7fd",
-      "internalComponentName": "ComponentWeek1IntroductionSetup",
-      "path": "/Week 1: Introduction/setup/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week 1: Introduction/setup/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week 1: Introduction/setup/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0a175c589733155a78dffc1621e4a21c",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Week 2: Data Wrangling/data-wrangling/": {
-      "jsonName": "week-2-data-wrangling-data-wrangling-50c",
-      "internalComponentName": "ComponentWeek2DataWranglingDataWrangling",
-      "path": "/Week 2: Data Wrangling/data-wrangling/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week 2: Data Wrangling/data-wrangling/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week 2: Data Wrangling/data-wrangling/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f091ac2516c91dc89b26d1ec9395df85",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Week 3: Models and Diagnostics Part One/models-part-one/": {
-      "jsonName": "week-3-models-and-diagnostics-part-one-models-part-one-89b",
-      "internalComponentName": "ComponentWeek3ModelsAndDiagnosticsPartOneModelsPartOne",
-      "path": "/Week 3: Models and Diagnostics Part One/models-part-one/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week 3: Models and Diagnostics Part One/models-part-one/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week 3: Models and Diagnostics Part One/models-part-one/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b8d45ad0fdd95f6187d6eeb43029d4df",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Week 4: Models and Diagnostics Part Two/models-part-two/": {
-      "jsonName": "week-4-models-and-diagnostics-part-two-models-part-two-937",
-      "internalComponentName": "ComponentWeek4ModelsAndDiagnosticsPartTwoModelsPartTwo",
-      "path": "/Week 4: Models and Diagnostics Part Two/models-part-two/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week 4: Models and Diagnostics Part Two/models-part-two/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week 4: Models and Diagnostics Part Two/models-part-two/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "9c1a53ac5986da97e9ca162cdc18b335",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Week 5: Data Cleaning/data-cleaning/": {
-      "jsonName": "week-5-data-cleaning-data-cleaning-e9e",
-      "internalComponentName": "ComponentWeek5DataCleaningDataCleaning",
-      "path": "/Week 5: Data Cleaning/data-cleaning/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week 5: Data Cleaning/data-cleaning/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week 5: Data Cleaning/data-cleaning/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "40944cc8cfd27be268215af8693e8ab0",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Week 6: Putting It All Together/wrapup/": {
-      "jsonName": "week-6-putting-it-all-together-wrapup-07e",
-      "internalComponentName": "ComponentWeek6PuttingItAllTogetherWrapup",
-      "path": "/Week 6: Putting It All Together/wrapup/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week 6: Putting It All Together/wrapup/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week 6: Putting It All Together/wrapup/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "45cdda4fd389c67008d62a4bd1de6e54",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /Setup/programming-tips/": {
-      "jsonName": "setup-programming-tips-4ce",
-      "internalComponentName": "ComponentSetupProgrammingTips",
-      "path": "/Setup/programming-tips/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Setup/programming-tips/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Setup/programming-tips/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "50846dd03f408d4e94c7c207afd1af42",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404/": {
-      "jsonName": "404-22d",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-      "pluginCreatorId": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "23067629deaecb009674aafdbe7781bd",
-        "description": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about/": {
-      "jsonName": "about-f34",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/about.js",
-      "componentChunkName": "component---src-pages-about-js",
-      "context": {},
-      "pluginCreator___NODE": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-      "pluginCreatorId": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/about.js",
-      "id": "SitePage /about/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4da76909112a7c0f59b33a6c3e170764",
-        "description": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact/": {
-      "jsonName": "contact-26a",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/contact.js",
-      "componentChunkName": "component---src-pages-contact-js",
-      "context": {},
-      "pluginCreator___NODE": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-      "pluginCreatorId": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/contact.js",
-      "id": "SitePage /contact/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "7949cd2f907fcb0cc5451bc9ef79d8ef",
-        "description": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "jsonName": "index",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-      "pluginCreatorId": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "dd08ac7c3803abee7f005b3f779a4d3b",
-        "description": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "jsonName": "404-html-516",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8f6173045994de56a7768940f380bd40",
-        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-        "owner": "internal-data-bridge"
-      }
     },
     "c47d7b5c-17c8-5aef-bf7c-a615a318a2a3": {
       "id": "c47d7b5c-17c8-5aef-bf7c-a615a318a2a3",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "81f1954641740d4b645e8b84615c552a",
+        "contentDigest": "2ecce90afd2ff3a9edb675394f5cd4f5",
         "type": "Directory",
         "description": "Directory \"src/pages/Week One: Introduction\"",
         "owner": "gatsby-source-filesystem"
@@ -2121,7 +1843,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:21:05.113Z",
-      "accessTime": "2018-12-26T02:39:17.782Z",
+      "accessTime": "2018-12-30T04:04:30.581Z",
       "changeTime": "2018-12-26T02:39:16.915Z",
       "birthTime": "2018-12-24T09:57:07.014Z",
       "root": "/",
@@ -2139,11 +1861,11 @@
       "blksize": 4096,
       "ino": 10558905,
       "blocks": 0,
-      "atimeMs": 1545791957781.5044,
+      "atimeMs": 1546142670581.3652,
       "mtimeMs": 1545646865112.5598,
       "ctimeMs": 1545791956914.5503,
       "birthtimeMs": 1545645427014.0962,
-      "atime": "2018-12-26T02:39:17.782Z",
+      "atime": "2018-12-30T04:04:30.581Z",
       "mtime": "2018-12-24T10:21:05.113Z",
       "ctime": "2018-12-26T02:39:16.915Z",
       "birthtime": "2018-12-24T09:57:07.014Z"
@@ -2153,7 +1875,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "e12b18525139b62d5103eeeec0365c1f",
+        "contentDigest": "9caef3c60a74dab50fe242eca1658d29",
         "type": "Directory",
         "description": "Directory \"src/pages/Week One: Introduction/setup\"",
         "owner": "gatsby-source-filesystem"
@@ -2165,7 +1887,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T09:57:07.014Z",
-      "accessTime": "2018-12-26T02:39:17.822Z",
+      "accessTime": "2018-12-30T04:04:30.584Z",
       "changeTime": "2018-12-24T10:21:05.113Z",
       "birthTime": "2018-12-24T09:57:07.014Z",
       "root": "/",
@@ -2183,11 +1905,11 @@
       "blksize": 4096,
       "ino": 10558906,
       "blocks": 0,
-      "atimeMs": 1545791957821.9502,
+      "atimeMs": 1546142670584.2227,
       "mtimeMs": 1545645427014.2183,
       "ctimeMs": 1545646865112.5596,
       "birthtimeMs": 1545645427014.1467,
-      "atime": "2018-12-26T02:39:17.822Z",
+      "atime": "2018-12-30T04:04:30.584Z",
       "mtime": "2018-12-24T09:57:07.014Z",
       "ctime": "2018-12-24T10:21:05.113Z",
       "birthtime": "2018-12-24T09:57:07.014Z"
@@ -2199,7 +1921,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ac9a3ff200f8486be3a98c0d185ba35f",
+        "contentDigest": "c06cb99cbd514b5626bf29af3de3d96f",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/Week One: Introduction/setup/index.md\"",
@@ -2209,11 +1931,11 @@
       "absolutePath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/Week One: Introduction/setup/index.md",
       "relativePath": "Week One: Introduction/setup/index.md",
       "extension": "md",
-      "size": 2718,
-      "prettySize": "2.72 kB",
-      "modifiedTime": "2018-12-25T12:02:55.024Z",
-      "accessTime": "2018-12-26T02:36:54.631Z",
-      "changeTime": "2018-12-25T12:02:55.024Z",
+      "size": 18065,
+      "prettySize": "18.1 kB",
+      "modifiedTime": "2018-12-30T04:18:35.950Z",
+      "accessTime": "2018-12-30T04:18:29.237Z",
+      "changeTime": "2018-12-30T04:18:35.950Z",
       "birthTime": "2018-12-24T09:57:07.014Z",
       "root": "/",
       "dir": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/Week One: Introduction/setup",
@@ -2229,70 +1951,22 @@
       "rdev": 0,
       "blksize": 4096,
       "ino": 10558907,
-      "blocks": 8,
-      "atimeMs": 1545791814630.838,
-      "mtimeMs": 1545739375024.3474,
-      "ctimeMs": 1545739375024.3474,
+      "blocks": 40,
+      "atimeMs": 1546143509236.8184,
+      "mtimeMs": 1546143515950.4253,
+      "ctimeMs": 1546143515950.4253,
       "birthtimeMs": 1545645427014.2122,
-      "atime": "2018-12-26T02:36:54.631Z",
-      "mtime": "2018-12-25T12:02:55.024Z",
-      "ctime": "2018-12-25T12:02:55.024Z",
+      "atime": "2018-12-30T04:18:29.237Z",
+      "mtime": "2018-12-30T04:18:35.950Z",
+      "ctime": "2018-12-30T04:18:35.950Z",
       "birthtime": "2018-12-24T09:57:07.014Z"
-    },
-    "53822749-1e62-5c6a-ad3f-18eeb2973d92": {
-      "id": "53822749-1e62-5c6a-ad3f-18eeb2973d92",
-      "children": [],
-      "parent": "6796e792-7c2a-56bb-bf21-8952ee838951",
-      "internal": {
-        "content": "\n# Introduction\n### Motivation\n\nThe purpose of the ECM is to capture show the short-run dynamics of the variables n the system are influenced by the deviation from the long-run equilibrium. If we are out of equilibrium, then we will move back into the equilibrium, and the model captures this. We difference the data to ensure that any regressions will not be spurious (for reasons mentioned in 1). However, if we just differenced them and regressed them on another, we fail to capture the long-run relationship between the 2 variables that exists (due to the fact they are cointegrated). Hence, we can capture that with the ECM as any time series that is not in equilibrium will move back into equilibrium according to the magnitude of the disequilibrium.\n\n---\n### Derivation \n\n\nFirst we begin with 2 I(1) variables that are cointegrated $$y_t$$ and $$z_t$$. From this, we know that we can express it as:\n\n$$\\eta_t = y_t - \\alpha - \\beta z_t$$\n\nWe will keep this in mind for later. Now let us define our general model whereby we are looking at the relationship between $$y_t$$ and $$z_t$$ alongside 1 lag.\n\n$$y_t = \\alpha_0 + \\alpha_1y_{t-1} + \\beta_0z_t + \\beta_1z_{t-1} + \\epsilon_t$$\n\nWe note that $$y_t$$ and $$z_t$$ are I(1), so we need to difference them. First we difference $$y_t$$\n\n$$y_t - y_{t-1}= \\alpha_0 + \\alpha_1y_{t-1} - y_{t-1} + \\beta_0z_t + \\beta_1z_{t-1} + \\epsilon_t$$\n\n$$\\Delta y_t = \\alpha_0 + (\\alpha_1 - 1)y_{t-1} + \\beta_0z_t + \\beta_1z_{t-1} + \\epsilon_t$$\n\nThen we add and subtract $$\\beta_0 Z_{t-1}$$ on the RHS to difference it.\n\n$$\\Delta y_t = \\alpha_0 + (\\alpha_1 - 1)y_{t-1} + \\beta_0z_t  - \\beta_0 z_{t-1} + \\beta_0 z_{t-1} + \\beta_1z_{t-1} + \\epsilon_t$$\n\n$$\\Delta y_t = \\alpha_0 + (\\alpha_1 - 1)y_{t-1} + \\beta_0\\Delta z_t + \\beta_0z_{t-1} + \\beta_1z_{t-1} + \\epsilon_t$$\n\nWe can then do this little trick:\n\n$$\\Delta y_t = \\alpha_0 - (1 - \\alpha_1)y_{t-1} + \\beta_0\\Delta z_t + \\beta_0z_{t-1} + \\beta_1z_{t-1} + \\epsilon_t$$\n\n$$\\Delta y_t = \\delta + \\beta_0\\Delta z_t - (1 - \\alpha_1)[y_{t-1} - \\frac{\\beta_0 + \\beta_1}{1 - \\alpha_1}z_{t-1} - \\alpha) +  \\epsilon_t$$\n\nwhere if you look carefully, I split the $$\\alpha_0$$ term up into $$\\delta$$ and $$\\alpha$$. Note also the term in the bracket is simply $$\\eta_{t-1}$$.\n\n$$\\Delta y_t = \\delta + \\beta_0\\Delta z_t - (1 - \\alpha_1)[\\eta_{t-1}] +  \\epsilon_t$$\n\n$$\\Delta y_t = \\delta + \\beta_0\\Delta z_t + (\\alpha_1 - 1)[\\eta_{t-1}] +  \\epsilon_t$$\n\nWe can then redefine some of the variables to match the standard notation.\n\n$$\\Delta y_t = \\delta + \\theta\\Delta z_t + \\gamma\\eta_{t-1} +  \\epsilon_t$$\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "95580222ec013966c6b55fab4bca01db",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "First Dive Into Python and Data Science",
-        "description": "First look into Python and Data Science",
-        "date": "2018-12-30",
-        "_PARENT": "6796e792-7c2a-56bb-bf21-8952ee838951"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n# Introduction\n### Motivation\n\nThe purpose of the ECM is to capture show the short-run dynamics of the variables n the system are influenced by the deviation from the long-run equilibrium. If we are out of equilibrium, then we will move back into the equilibrium, and the model captures this. We difference the data to ensure that any regressions will not be spurious (for reasons mentioned in 1). However, if we just differenced them and regressed them on another, we fail to capture the long-run relationship between the 2 variables that exists (due to the fact they are cointegrated). Hence, we can capture that with the ECM as any time series that is not in equilibrium will move back into equilibrium according to the magnitude of the disequilibrium.\n\n---\n### Derivation \n\n\nFirst we begin with 2 I(1) variables that are cointegrated $$y_t$$ and $$z_t$$. From this, we know that we can express it as:\n\n$$\\eta_t = y_t - \\alpha - \\beta z_t$$\n\nWe will keep this in mind for later. Now let us define our general model whereby we are looking at the relationship between $$y_t$$ and $$z_t$$ alongside 1 lag.\n\n$$y_t = \\alpha_0 + \\alpha_1y_{t-1} + \\beta_0z_t + \\beta_1z_{t-1} + \\epsilon_t$$\n\nWe note that $$y_t$$ and $$z_t$$ are I(1), so we need to difference them. First we difference $$y_t$$\n\n$$y_t - y_{t-1}= \\alpha_0 + \\alpha_1y_{t-1} - y_{t-1} + \\beta_0z_t + \\beta_1z_{t-1} + \\epsilon_t$$\n\n$$\\Delta y_t = \\alpha_0 + (\\alpha_1 - 1)y_{t-1} + \\beta_0z_t + \\beta_1z_{t-1} + \\epsilon_t$$\n\nThen we add and subtract $$\\beta_0 Z_{t-1}$$ on the RHS to difference it.\n\n$$\\Delta y_t = \\alpha_0 + (\\alpha_1 - 1)y_{t-1} + \\beta_0z_t  - \\beta_0 z_{t-1} + \\beta_0 z_{t-1} + \\beta_1z_{t-1} + \\epsilon_t$$\n\n$$\\Delta y_t = \\alpha_0 + (\\alpha_1 - 1)y_{t-1} + \\beta_0\\Delta z_t + \\beta_0z_{t-1} + \\beta_1z_{t-1} + \\epsilon_t$$\n\nWe can then do this little trick:\n\n$$\\Delta y_t = \\alpha_0 - (1 - \\alpha_1)y_{t-1} + \\beta_0\\Delta z_t + \\beta_0z_{t-1} + \\beta_1z_{t-1} + \\epsilon_t$$\n\n$$\\Delta y_t = \\delta + \\beta_0\\Delta z_t - (1 - \\alpha_1)[y_{t-1} - \\frac{\\beta_0 + \\beta_1}{1 - \\alpha_1}z_{t-1} - \\alpha) +  \\epsilon_t$$\n\nwhere if you look carefully, I split the $$\\alpha_0$$ term up into $$\\delta$$ and $$\\alpha$$. Note also the term in the bracket is simply $$\\eta_{t-1}$$.\n\n$$\\Delta y_t = \\delta + \\beta_0\\Delta z_t - (1 - \\alpha_1)[\\eta_{t-1}] +  \\epsilon_t$$\n\n$$\\Delta y_t = \\delta + \\beta_0\\Delta z_t + (\\alpha_1 - 1)[\\eta_{t-1}] +  \\epsilon_t$$\n\nWe can then redefine some of the variables to match the standard notation.\n\n$$\\Delta y_t = \\delta + \\theta\\Delta z_t + \\gamma\\eta_{t-1} +  \\epsilon_t$$\n\n",
-      "fileAbsolutePath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/Week One: Introduction/setup/index.md",
-      "fields": {
-        "slug": "/Week One: Introduction/setup/"
-      }
-    },
-    "SitePage /Week One: Introduction/setup/": {
-      "jsonName": "week-one-introduction-setup-ba0",
-      "internalComponentName": "ComponentWeekOneIntroductionSetup",
-      "path": "/Week One: Introduction/setup/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week One: Introduction/setup/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week One: Introduction/setup/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "d9a12855104213a9789e2b176059a3a8",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
     },
     "1c96f7db-f8c2-5be8-867f-67fd01cbb7b9": {
       "id": "1c96f7db-f8c2-5be8-867f-67fd01cbb7b9",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "0040878b4e024c8200115862ceb7f682",
+        "contentDigest": "114dcbc66da73531f88e591283544cb0",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Two: Data Wrangling\"",
         "owner": "gatsby-source-filesystem"
@@ -2304,7 +1978,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:21:56.763Z",
-      "accessTime": "2018-12-26T02:39:27.012Z",
+      "accessTime": "2018-12-30T04:04:30.581Z",
       "changeTime": "2018-12-26T02:39:26.898Z",
       "birthTime": "2018-12-24T09:57:07.015Z",
       "root": "/",
@@ -2322,11 +1996,11 @@
       "blksize": 4096,
       "ino": 10558910,
       "blocks": 0,
-      "atimeMs": 1545791967012.4995,
+      "atimeMs": 1546142670581.4473,
       "mtimeMs": 1545646916763.232,
       "ctimeMs": 1545791966897.8955,
       "birthtimeMs": 1545645427014.8887,
-      "atime": "2018-12-26T02:39:27.012Z",
+      "atime": "2018-12-30T04:04:30.581Z",
       "mtime": "2018-12-24T10:21:56.763Z",
       "ctime": "2018-12-26T02:39:26.898Z",
       "birthtime": "2018-12-24T09:57:07.015Z"
@@ -2336,7 +2010,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "41cff52eb79405ca50f41290c1f280c8",
+        "contentDigest": "8dedbb500a4b5f14e7ef09dc6dfa98da",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Two: Data Wrangling/data-wrangling\"",
         "owner": "gatsby-source-filesystem"
@@ -2348,7 +2022,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-12-24T09:57:07.015Z",
-      "accessTime": "2018-12-26T02:39:27.176Z",
+      "accessTime": "2018-12-30T04:04:30.584Z",
       "changeTime": "2018-12-24T10:21:56.763Z",
       "birthTime": "2018-12-24T09:57:07.015Z",
       "root": "/",
@@ -2366,11 +2040,11 @@
       "blksize": 4096,
       "ino": 10558911,
       "blocks": 0,
-      "atimeMs": 1545791967176.1592,
+      "atimeMs": 1546142670584.3193,
       "mtimeMs": 1545645427015.2222,
       "ctimeMs": 1545646916763.2317,
       "birthtimeMs": 1545645427014.9343,
-      "atime": "2018-12-26T02:39:27.176Z",
+      "atime": "2018-12-30T04:04:30.584Z",
       "mtime": "2018-12-24T09:57:07.015Z",
       "ctime": "2018-12-24T10:21:56.763Z",
       "birthtime": "2018-12-24T09:57:07.015Z"
@@ -2505,34 +2179,12 @@
         "slug": "/Week Two: Data Wrangling/data-wrangling/"
       }
     },
-    "SitePage /Week Two: Data Wrangling/data-wrangling/": {
-      "jsonName": "week-two-data-wrangling-data-wrangling-7b2",
-      "internalComponentName": "ComponentWeekTwoDataWranglingDataWrangling",
-      "path": "/Week Two: Data Wrangling/data-wrangling/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week Two: Data Wrangling/data-wrangling/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week Two: Data Wrangling/data-wrangling/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b857afb2b096516eb9dde4b1378c5f0f",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "6824a2eb-02f4-5ab0-9c99-d52c8791188d": {
       "id": "6824a2eb-02f4-5ab0-9c99-d52c8791188d",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "837bf1070c94bdc65de4457647b1fc39",
+        "contentDigest": "baf379396e067df707f7160e025430df",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Three: Models and Diagnostics Part One\"",
         "owner": "gatsby-source-filesystem"
@@ -2544,7 +2196,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:25:17.335Z",
-      "accessTime": "2018-12-26T02:39:37.042Z",
+      "accessTime": "2018-12-30T04:04:30.581Z",
       "changeTime": "2018-12-26T02:39:36.925Z",
       "birthTime": "2018-12-24T10:19:41.524Z",
       "root": "/",
@@ -2562,11 +2214,11 @@
       "blksize": 4096,
       "ino": 10608413,
       "blocks": 0,
-      "atimeMs": 1545791977042.1326,
+      "atimeMs": 1546142670581.431,
       "mtimeMs": 1545647117335.3528,
       "ctimeMs": 1545791976925.436,
       "birthtimeMs": 1545646781524.1794,
-      "atime": "2018-12-26T02:39:37.042Z",
+      "atime": "2018-12-30T04:04:30.581Z",
       "mtime": "2018-12-24T10:25:17.335Z",
       "ctime": "2018-12-26T02:39:36.925Z",
       "birthtime": "2018-12-24T10:19:41.524Z"
@@ -2576,7 +2228,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "81b98184b2a5a9ee6ecb51aee9dbee06",
+        "contentDigest": "55b740c1d6b16fb1c4a6ff8948010f13",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Three: Models and Diagnostics Part One/models-part-one\"",
         "owner": "gatsby-source-filesystem"
@@ -2588,7 +2240,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:26:07.135Z",
-      "accessTime": "2018-12-26T02:39:37.071Z",
+      "accessTime": "2018-12-30T04:04:30.584Z",
       "changeTime": "2018-12-24T10:26:07.135Z",
       "birthTime": "2018-12-24T10:25:17.335Z",
       "root": "/",
@@ -2606,11 +2258,11 @@
       "blksize": 4096,
       "ino": 10608656,
       "blocks": 0,
-      "atimeMs": 1545791977070.7917,
+      "atimeMs": 1546142670584.2617,
       "mtimeMs": 1545647167135.3442,
       "ctimeMs": 1545647167135.3442,
       "birthtimeMs": 1545647117335.3408,
-      "atime": "2018-12-26T02:39:37.071Z",
+      "atime": "2018-12-30T04:04:30.584Z",
       "mtime": "2018-12-24T10:26:07.135Z",
       "ctime": "2018-12-24T10:26:07.135Z",
       "birthtime": "2018-12-24T10:25:17.335Z"
@@ -2688,34 +2340,12 @@
         "slug": "/Week Three: Models and Diagnostics Part One/models-part-one/"
       }
     },
-    "SitePage /Week Three: Models and Diagnostics Part One/models-part-one/": {
-      "jsonName": "week-three-models-and-diagnostics-part-one-models-part-one-26d",
-      "internalComponentName": "ComponentWeekThreeModelsAndDiagnosticsPartOneModelsPartOne",
-      "path": "/Week Three: Models and Diagnostics Part One/models-part-one/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week Three: Models and Diagnostics Part One/models-part-one/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week Three: Models and Diagnostics Part One/models-part-one/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0d45b5da382a2981858d34eb7281bffb",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "2520c472-c588-5363-bd0b-06d398f87aa3": {
       "id": "2520c472-c588-5363-bd0b-06d398f87aa3",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "784bcccc8eaa5fe9efc6a0f3f438320a",
+        "contentDigest": "1660505c87e4bd7709e4f1063032a081",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Four: Models and Diagnostics Part Two\"",
         "owner": "gatsby-source-filesystem"
@@ -2727,7 +2357,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:27:11.279Z",
-      "accessTime": "2018-12-26T02:39:48.932Z",
+      "accessTime": "2018-12-30T04:04:30.581Z",
       "changeTime": "2018-12-26T02:39:48.815Z",
       "birthTime": "2018-12-24T10:19:59.379Z",
       "root": "/",
@@ -2745,11 +2375,11 @@
       "blksize": 4096,
       "ino": 10608419,
       "blocks": 0,
-      "atimeMs": 1545791988931.5835,
+      "atimeMs": 1546142670581.404,
       "mtimeMs": 1545647231278.6296,
       "ctimeMs": 1545791988814.7825,
       "birthtimeMs": 1545646799378.533,
-      "atime": "2018-12-26T02:39:48.932Z",
+      "atime": "2018-12-30T04:04:30.581Z",
       "mtime": "2018-12-24T10:27:11.279Z",
       "ctime": "2018-12-26T02:39:48.815Z",
       "birthtime": "2018-12-24T10:19:59.379Z"
@@ -2759,7 +2389,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "2b417c260e68529e0f02c7a6b3ce71ba",
+        "contentDigest": "9dfdc3d2b904ff605894bf109ab75948",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Four: Models and Diagnostics Part Two/models-part-two\"",
         "owner": "gatsby-source-filesystem"
@@ -2771,7 +2401,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:27:34.324Z",
-      "accessTime": "2018-12-26T02:39:48.959Z",
+      "accessTime": "2018-12-30T04:04:30.584Z",
       "changeTime": "2018-12-24T10:27:34.324Z",
       "birthTime": "2018-12-24T10:27:11.279Z",
       "root": "/",
@@ -2789,11 +2419,11 @@
       "blksize": 4096,
       "ino": 10608741,
       "blocks": 0,
-      "atimeMs": 1545791988959.2354,
+      "atimeMs": 1546142670584.2493,
       "mtimeMs": 1545647254324.4727,
       "ctimeMs": 1545647254324.4727,
       "birthtimeMs": 1545647231278.618,
-      "atime": "2018-12-26T02:39:48.959Z",
+      "atime": "2018-12-30T04:04:30.584Z",
       "mtime": "2018-12-24T10:27:34.324Z",
       "ctime": "2018-12-24T10:27:34.324Z",
       "birthtime": "2018-12-24T10:27:11.279Z"
@@ -2871,34 +2501,12 @@
         "slug": "/Week Four: Models and Diagnostics Part Two/models-part-two/"
       }
     },
-    "SitePage /Week Four: Models and Diagnostics Part Two/models-part-two/": {
-      "jsonName": "week-four-models-and-diagnostics-part-two-models-part-two-254",
-      "internalComponentName": "ComponentWeekFourModelsAndDiagnosticsPartTwoModelsPartTwo",
-      "path": "/Week Four: Models and Diagnostics Part Two/models-part-two/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week Four: Models and Diagnostics Part Two/models-part-two/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week Four: Models and Diagnostics Part Two/models-part-two/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4a3a7e6bc8d48cdd284f3df2984af2e1",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "d176e09a-e459-5787-897c-be86131a9444": {
       "id": "d176e09a-e459-5787-897c-be86131a9444",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "182edb5e6b792a6a909f8e4b0f7391c8",
+        "contentDigest": "1b3886d5b0486fcd45c9dc15ca282976",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Five: Data Cleaning\"",
         "owner": "gatsby-source-filesystem"
@@ -2910,7 +2518,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:27:04.708Z",
-      "accessTime": "2018-12-26T02:39:57.065Z",
+      "accessTime": "2018-12-30T04:04:30.581Z",
       "changeTime": "2018-12-26T02:39:56.950Z",
       "birthTime": "2018-12-24T10:20:22.958Z",
       "root": "/",
@@ -2928,11 +2536,11 @@
       "blksize": 4096,
       "ino": 10608425,
       "blocks": 0,
-      "atimeMs": 1545791997064.9285,
+      "atimeMs": 1546142670581.3286,
       "mtimeMs": 1545647224707.56,
       "ctimeMs": 1545791996950.085,
       "birthtimeMs": 1545646822958.0378,
-      "atime": "2018-12-26T02:39:57.065Z",
+      "atime": "2018-12-30T04:04:30.581Z",
       "mtime": "2018-12-24T10:27:04.708Z",
       "ctime": "2018-12-26T02:39:56.950Z",
       "birthtime": "2018-12-24T10:20:22.958Z"
@@ -2942,7 +2550,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bfb4920b47f0496c9d4d89cb7faf69e2",
+        "contentDigest": "5cfb69f58dd25fec41e3502f8afa5887",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Five: Data Cleaning/data-cleaning\"",
         "owner": "gatsby-source-filesystem"
@@ -2954,7 +2562,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:30:34.910Z",
-      "accessTime": "2018-12-26T02:39:57.089Z",
+      "accessTime": "2018-12-30T04:04:30.584Z",
       "changeTime": "2018-12-24T10:30:34.910Z",
       "birthTime": "2018-12-24T10:26:51.344Z",
       "root": "/",
@@ -2972,11 +2580,11 @@
       "blksize": 4096,
       "ino": 10608737,
       "blocks": 0,
-      "atimeMs": 1545791997088.6125,
+      "atimeMs": 1546142670584.15,
       "mtimeMs": 1545647434910.127,
       "ctimeMs": 1545647434910.127,
       "birthtimeMs": 1545647211344.3894,
-      "atime": "2018-12-26T02:39:57.089Z",
+      "atime": "2018-12-30T04:04:30.584Z",
       "mtime": "2018-12-24T10:30:34.910Z",
       "ctime": "2018-12-24T10:30:34.910Z",
       "birthtime": "2018-12-24T10:26:51.344Z"
@@ -3054,34 +2662,12 @@
         "slug": "/Week Five: Data Cleaning/data-cleaning/"
       }
     },
-    "SitePage /Week Five: Data Cleaning/data-cleaning/": {
-      "jsonName": "week-five-data-cleaning-data-cleaning-b32",
-      "internalComponentName": "ComponentWeekFiveDataCleaningDataCleaning",
-      "path": "/Week Five: Data Cleaning/data-cleaning/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week Five: Data Cleaning/data-cleaning/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week Five: Data Cleaning/data-cleaning/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "be93700a80973fc0f072aa7599ce6df5",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "0e1cbeee-b8ef-5303-8152-648cb0d7f0fa": {
       "id": "0e1cbeee-b8ef-5303-8152-648cb0d7f0fa",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c2f085e9628e3ac800fe46d97b7c5d09",
+        "contentDigest": "b777111b589dd10a503f8e9b70cc86f7",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Six: Putting It All Together\"",
         "owner": "gatsby-source-filesystem"
@@ -3093,7 +2679,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:27:20.566Z",
-      "accessTime": "2018-12-26T02:40:06.758Z",
+      "accessTime": "2018-12-30T04:04:30.581Z",
       "changeTime": "2018-12-26T02:40:06.644Z",
       "birthTime": "2018-12-24T10:20:41.056Z",
       "root": "/",
@@ -3111,11 +2697,11 @@
       "blksize": 4096,
       "ino": 10608428,
       "blocks": 0,
-      "atimeMs": 1545792006758.2146,
+      "atimeMs": 1546142670581.3877,
       "mtimeMs": 1545647240565.777,
       "ctimeMs": 1545792006644.0498,
       "birthtimeMs": 1545646841056.1558,
-      "atime": "2018-12-26T02:40:06.758Z",
+      "atime": "2018-12-30T04:04:30.581Z",
       "mtime": "2018-12-24T10:27:20.566Z",
       "ctime": "2018-12-26T02:40:06.644Z",
       "birthtime": "2018-12-24T10:20:41.056Z"
@@ -3125,7 +2711,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "74673644803b96177a1eef5e60b88626",
+        "contentDigest": "f0e34fc457d44f2e776019d745f2eb99",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Six: Putting It All Together/wrapup\"",
         "owner": "gatsby-source-filesystem"
@@ -3137,7 +2723,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:31:07.094Z",
-      "accessTime": "2018-12-26T02:40:06.790Z",
+      "accessTime": "2018-12-30T04:04:30.584Z",
       "changeTime": "2018-12-24T10:31:07.094Z",
       "birthTime": "2018-12-24T10:27:20.566Z",
       "root": "/",
@@ -3155,11 +2741,11 @@
       "blksize": 4096,
       "ino": 10608745,
       "blocks": 0,
-      "atimeMs": 1545792006789.7307,
+      "atimeMs": 1546142670584.2358,
       "mtimeMs": 1545647467093.6284,
       "ctimeMs": 1545647467093.6284,
       "birthtimeMs": 1545647240565.7659,
-      "atime": "2018-12-26T02:40:06.790Z",
+      "atime": "2018-12-30T04:04:30.584Z",
       "mtime": "2018-12-24T10:31:07.094Z",
       "ctime": "2018-12-24T10:31:07.094Z",
       "birthtime": "2018-12-24T10:27:20.566Z"
@@ -3237,34 +2823,12 @@
         "slug": "/Week Six: Putting It All Together/wrapup/"
       }
     },
-    "SitePage /Week Six: Putting It All Together/wrapup/": {
-      "jsonName": "week-six-putting-it-all-together-wrapup-37a",
-      "internalComponentName": "ComponentWeekSixPuttingItAllTogetherWrapup",
-      "path": "/Week Six: Putting It All Together/wrapup/",
-      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "componentChunkName": "component---src-templates-notes-js",
-      "context": {
-        "slug": "/Week Six: Putting It All Together/wrapup/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
-      "id": "SitePage /Week Six: Putting It All Together/wrapup/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "625c1c529c34910b2447fce1334ff303",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
     "17e8e97d-d4cb-5eb3-b86c-f5c97988c6a5": {
       "id": "17e8e97d-d4cb-5eb3-b86c-f5c97988c6a5",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4ee9c092b359c446e5c69e1f97752263",
+        "contentDigest": "a0f530d269278c2ff53e013d004c02b1",
         "type": "Directory",
         "description": "Directory \"src/pages/Setting Up\"",
         "owner": "gatsby-source-filesystem"
@@ -3276,7 +2840,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-12-24T10:18:00.734Z",
-      "accessTime": "2018-12-26T03:06:52.636Z",
+      "accessTime": "2018-12-30T04:04:30.581Z",
       "changeTime": "2018-12-26T03:06:52.302Z",
       "birthTime": "2018-12-24T09:57:07.013Z",
       "root": "/",
@@ -3294,11 +2858,11 @@
       "blksize": 4096,
       "ino": 10558900,
       "blocks": 0,
-      "atimeMs": 1545793612635.6096,
+      "atimeMs": 1546142670581.3499,
       "mtimeMs": 1545646680733.9336,
       "ctimeMs": 1545793612301.8865,
       "birthtimeMs": 1545645427013.4133,
-      "atime": "2018-12-26T03:06:52.636Z",
+      "atime": "2018-12-30T04:04:30.581Z",
       "mtime": "2018-12-24T10:18:00.734Z",
       "ctime": "2018-12-26T03:06:52.302Z",
       "birthtime": "2018-12-24T09:57:07.013Z"
@@ -3308,7 +2872,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a909ed2ca7e86c8ce527d979f1bd515b",
+        "contentDigest": "0019ad63e6a33cfd1ee662cf5fc25093",
         "type": "Directory",
         "description": "Directory \"src/pages/Setting Up/coding-environment\"",
         "owner": "gatsby-source-filesystem"
@@ -3320,7 +2884,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T09:57:07.014Z",
-      "accessTime": "2018-12-26T03:06:52.667Z",
+      "accessTime": "2018-12-30T04:04:30.584Z",
       "changeTime": "2018-12-24T10:16:29.049Z",
       "birthTime": "2018-12-24T09:57:07.013Z",
       "root": "/",
@@ -3338,11 +2902,11 @@
       "blksize": 4096,
       "ino": 10558901,
       "blocks": 0,
-      "atimeMs": 1545793612666.612,
+      "atimeMs": 1546142670584.188,
       "mtimeMs": 1545645427013.5215,
       "ctimeMs": 1545646589049.3271,
       "birthtimeMs": 1545645427013.459,
-      "atime": "2018-12-26T03:06:52.667Z",
+      "atime": "2018-12-30T04:04:30.584Z",
       "mtime": "2018-12-24T09:57:07.014Z",
       "ctime": "2018-12-24T10:16:29.049Z",
       "birthtime": "2018-12-24T09:57:07.013Z"
@@ -3352,7 +2916,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "df59d9525ada1f59c745bb48a246cc2d",
+        "contentDigest": "8f9ca54dacc07d0abf2638a604d18476",
         "type": "Directory",
         "description": "Directory \"src/pages/Setting Up/programming-tips\"",
         "owner": "gatsby-source-filesystem"
@@ -3364,7 +2928,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T09:57:07.014Z",
-      "accessTime": "2018-12-26T03:06:52.667Z",
+      "accessTime": "2018-12-30T04:04:30.584Z",
       "changeTime": "2018-12-24T10:18:00.734Z",
       "birthTime": "2018-12-24T09:57:07.014Z",
       "root": "/",
@@ -3382,11 +2946,11 @@
       "blksize": 4096,
       "ino": 10558903,
       "blocks": 0,
-      "atimeMs": 1545793612666.6226,
+      "atimeMs": 1546142670584.2085,
       "mtimeMs": 1545645427013.8135,
       "ctimeMs": 1545646680733.9333,
       "birthtimeMs": 1545645427013.7512,
-      "atime": "2018-12-26T03:06:52.667Z",
+      "atime": "2018-12-30T04:04:30.584Z",
       "mtime": "2018-12-24T09:57:07.014Z",
       "ctime": "2018-12-24T10:18:00.734Z",
       "birthtime": "2018-12-24T09:57:07.014Z"
@@ -3559,6 +3123,138 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /Week One: Introduction/setup/": {
+      "jsonName": "week-one-introduction-setup-ba0",
+      "internalComponentName": "ComponentWeekOneIntroductionSetup",
+      "path": "/Week One: Introduction/setup/",
+      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "componentChunkName": "component---src-templates-notes-js",
+      "context": {
+        "slug": "/Week One: Introduction/setup/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "id": "SitePage /Week One: Introduction/setup/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d9a12855104213a9789e2b176059a3a8",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Week Two: Data Wrangling/data-wrangling/": {
+      "jsonName": "week-two-data-wrangling-data-wrangling-7b2",
+      "internalComponentName": "ComponentWeekTwoDataWranglingDataWrangling",
+      "path": "/Week Two: Data Wrangling/data-wrangling/",
+      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "componentChunkName": "component---src-templates-notes-js",
+      "context": {
+        "slug": "/Week Two: Data Wrangling/data-wrangling/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "id": "SitePage /Week Two: Data Wrangling/data-wrangling/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b857afb2b096516eb9dde4b1378c5f0f",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Week Three: Models and Diagnostics Part One/models-part-one/": {
+      "jsonName": "week-three-models-and-diagnostics-part-one-models-part-one-26d",
+      "internalComponentName": "ComponentWeekThreeModelsAndDiagnosticsPartOneModelsPartOne",
+      "path": "/Week Three: Models and Diagnostics Part One/models-part-one/",
+      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "componentChunkName": "component---src-templates-notes-js",
+      "context": {
+        "slug": "/Week Three: Models and Diagnostics Part One/models-part-one/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "id": "SitePage /Week Three: Models and Diagnostics Part One/models-part-one/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0d45b5da382a2981858d34eb7281bffb",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Week Four: Models and Diagnostics Part Two/models-part-two/": {
+      "jsonName": "week-four-models-and-diagnostics-part-two-models-part-two-254",
+      "internalComponentName": "ComponentWeekFourModelsAndDiagnosticsPartTwoModelsPartTwo",
+      "path": "/Week Four: Models and Diagnostics Part Two/models-part-two/",
+      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "componentChunkName": "component---src-templates-notes-js",
+      "context": {
+        "slug": "/Week Four: Models and Diagnostics Part Two/models-part-two/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "id": "SitePage /Week Four: Models and Diagnostics Part Two/models-part-two/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4a3a7e6bc8d48cdd284f3df2984af2e1",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Week Five: Data Cleaning/data-cleaning/": {
+      "jsonName": "week-five-data-cleaning-data-cleaning-b32",
+      "internalComponentName": "ComponentWeekFiveDataCleaningDataCleaning",
+      "path": "/Week Five: Data Cleaning/data-cleaning/",
+      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "componentChunkName": "component---src-templates-notes-js",
+      "context": {
+        "slug": "/Week Five: Data Cleaning/data-cleaning/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "id": "SitePage /Week Five: Data Cleaning/data-cleaning/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "be93700a80973fc0f072aa7599ce6df5",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Week Six: Putting It All Together/wrapup/": {
+      "jsonName": "week-six-putting-it-all-together-wrapup-37a",
+      "internalComponentName": "ComponentWeekSixPuttingItAllTogetherWrapup",
+      "path": "/Week Six: Putting It All Together/wrapup/",
+      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "componentChunkName": "component---src-templates-notes-js",
+      "context": {
+        "slug": "/Week Six: Putting It All Together/wrapup/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/templates/notes.js",
+      "id": "SitePage /Week Six: Putting It All Together/wrapup/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "625c1c529c34910b2447fce1334ff303",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /Setting Up/programming-tips/": {
       "jsonName": "setting-up-programming-tips-ff7",
       "internalComponentName": "ComponentSettingUpProgrammingTips",
@@ -3579,6 +3275,132 @@
         "contentDigest": "0a64d4e816053a5b1bd330cc643d39a9",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+      "pluginCreatorId": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "23067629deaecb009674aafdbe7781bd",
+        "description": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+      "pluginCreatorId": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4da76909112a7c0f59b33a6c3e170764",
+        "description": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "jsonName": "contact-26a",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "context": {},
+      "pluginCreator___NODE": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+      "pluginCreatorId": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7949cd2f907fcb0cc5451bc9ef79d8ef",
+        "description": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+      "pluginCreatorId": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "dd08ac7c3803abee7f005b3f779a4d3b",
+        "description": "8a3bcce7-6452-5168-8cd6-49ab5c3d76e9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8f6173045994de56a7768940f380bd40",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "53822749-1e62-5c6a-ad3f-18eeb2973d92": {
+      "id": "53822749-1e62-5c6a-ad3f-18eeb2973d92",
+      "children": [],
+      "parent": "6796e792-7c2a-56bb-bf21-8952ee838951",
+      "internal": {
+        "content": "\n## Introduction\n\nThroughout these workshops we are going to be teaching you about programming using a language known as [Python](https://www.programiz.com/python-programming). Python is a versatile programming language and currently the [third most popular language](https://hackernoon.com/top-3-most-popular-programming-languages-in-2018-and-their-annual-salaries-51b4a7354e06) in the world. Due to its versatility, it is used in a wide range of applications from analysing data, machine learning, web development, and more. Furthermore, it is ranked as the [most popular tool](https://towardsdatascience.com/r-vs-python-vs-matlab-vs-octave-c28cd059aa69) used in analytics/data science by practioners by a wide margin, with R coming in second. Python's popularity stems from its simple programming syntax and the number of developers who contribute to the different packages you can use in the Python ecosystem (more on what this means later). We are going to be utilising a tool known as [Jupyter Notebooks](https://www.google.com/search?ei=DDYoXN7mDsnTvwTIgLLACA&q=what+is+jupyter+notebook+beginners&oq=what+is+jupyter+notebook+beginners&gs_l=psy-ab.3..33i22i29i30.2714.3837..3972...0.0..0.125.996.5j5......0....1..gws-wiz.......0j0i71j0i20i263.JhkvlfrClvM) which allows us to create and share documents with code easily and in a presentable visual format.\n\nLearning how to program is just like learning a real language. The only way you can learn is by *doing*, and it is really important to understand that you will not learn anything unless you activley try and get involved in the examples we present. You will not become an expert in Python by the end of these workshops, but you will become more literate, and in the same way that people who can speak Italian can understand parts of Spanish. These workshops will help your overall ability to program and work with data in a coherent, efficient manner.\n\n## Why should you be here? (and why should you stay?)\n\n1. *Become more programming literate*: This is invaluable for your honours theses or any research project you may have to do.\n2. *Your Resume*: Employers are becoming increasingly interested in graduates who are able to program or at least familiar with it. \n\n## 1.1 Data Types and Data Structures\n\n### Integers\n\nIntegers are one of the most fundamental data types in Python. Integers are just whole numbers. In Python, as with in many other languages, we are able to assign values to variables that we define:\n\n\n```python\nx = 100\n\nprint(x)\n\ntype(x)\n```\n\n    100\n\n\n\n\n\n    int\n\n\n\nWe can perform basic mathematical operations using these variables:\n\n\n```python\nx = 5\n\ny = 6\n\nz = x + y \n\nprint(z)\nprint(x + y) # We don't NEED to define a new variable\n```\n\n    11\n    11\n\n\n### Strings\n\nStrings are an object that are *generally* used to represent text information. In the same way that we can assign an integer to a variable ```x```, we can do the same with strings. When we are working with strings, it is important to remember to use the quotation marks ' or \".\n\n\n\n```python\nx = 'Hello World'\n\nprint(x)\ntype(x)\n```\n\n    Hello World\n\n\n\n\n\n    str\n\n\n\nStrings are **NOT** treated the same way as integers. It might not be clear right now why this is a problem, but we will see an exercise where it is. \n\nJust like with integers, we can combine strings together. This is known as _concatenation_.\n\n\n```python\nx = \"cat\"\ny = \"dog\"\n\nprint(x + y)\n```\n\n    catdog\n\n\nSomething worthwhile to point out is that you cannot concatenate a string and an integer together.\n\n\n```python\nquantity = 5\nunits = \" kilos\"\n\nprint(quantity + units)\n```\n\n\n    ---------------------------------------------------------------------------\n\n    TypeError                                 Traceback (most recent call last)\n\n    <ipython-input-9-5d1488afa540> in <module>()\n          2 units = \" kilos\"\n          3 \n    ----> 4 print(quantity + units)\n    \n\n    TypeError: unsupported operand type(s) for +: 'int' and 'str'\n\n\nWhat we have to do instead is to turn the integer quantity into a string using the _str_ command before we can concatenate them together.\n\n\n```python\nprint(str(quantity) + units)\n```\n\n    5 kilos\n\n\n### Floats\n\nFloats are similar to Integers, but they involve decimal points. They are used when we need more precision\n\n\n```python\nz = x/y\n\ntype(z)\n```\n\n\n\n\n    float\n\n\n\n### Lists\n\nA 'list' is a collection of arbitrary objects, we define a list using the square brackets:\n\n\n```python\nx = [1, 2, 3, 4, 5]\nprint(x)\n\ny = ['Hello', 'World']\nprint(y)\n```\n\n    [1, 2, 3, 4, 5]\n    ['Hello', 'World']\n\n\nWe can perform functions on lists, for example we may be interested in how many elements are within the list, or we may be interested in a specfic object within the list. These are very basic examples and there are far more functions, but for now these will do.\n\n\n```python\nlen(x)\nx[1] # Python indexing begins at 0!\n```\n\n\n\n\n    2\n\n\n\nNotice that in Python and other programming languages, you start counting from 0 rather than 1. In our list x, the value 1 is actually located at the index 0 whilst the value 2 is located in the index 1.\n\n\n```python\nprint(\"The value at index 0 is \" + str(x[0]))\nprint(\"The value at index 1 is \" + str(x[1]))\n```\n\n    The value at index 0 is 1\n    The value at index 1 is 2\n\n\n### Dictionaries\n\nDictionaries are mappings of unique keys to values, we define a dictionary using the curly brackets: Suppose here we have information about students and their favourite fruit.\n\n\n```python\nx = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\n```\n\nThe unique 'key' is the first entry and the value is the second. If we assign a value to a key, we can retreive the value by reffering to the key. Suppose I want to know what Chris' favourite fruit is:\n\n\n\n```python\nx['Chris']\n```\n\n\n\n\n    'Mangos'\n\n\n\nNotice that it doesn't work the other way around\n\n\n```python\nx['Mangos']\n```\n\n\n    ---------------------------------------------------------------------------\n\n    KeyError                                  Traceback (most recent call last)\n\n    <ipython-input-13-54d0ee1c03d4> in <module>()\n    ----> 1 x['Mangos']\n    \n\n    KeyError: 'Mangos'\n\n\nWe can set anything to be a value, integers, floats, lists, and even more dictionaries!\n\nHere, we have 2 dictionaries containing favourite fruits for 2 groups of people. We can combine these dictionaries by placing them into another dictionary.\n\n\n```python\nboys_dict = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\ngirls_dict = {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n\nnested_dict = {\"Girls\": girls_dict, \"Guys\": boys_dict}\n```\n\n\n```python\nnested_dict\n```\n\n\n\n\n    {'Girls': {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'},\n     'Guys': {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}}\n\n\n\n\n```python\nnested_dict['Girls']\n```\n\n\n\n\n    {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n\n\n\n## 1.2 Functions, For Loops and If Statements\n\nFunctions, 'for' loops and 'if' statements are by far the most ubiquitous and useful commands in your programming arsenal. They allow us to solve more complicated (and interesting) problems by creating scripts that are both recursive and iterative. They also allow us to make our code more succinct, generalisable and efficient.\n\n### Functions\n\nA function is a piece of resuable code that can be used to perform some sort of action. In Python there are 'built in' functions -- which we have seen above, but there are also *user-defined functions*. These are functions that we write ourselves. We can start by defining a function:\n\n\n```python\ndef my_function(x):  # We need to specify a function handle, and some arguments\n    y = x*2  # Multiply x by 2\n    return (y)\n```\n\nThis function takes in some object ```x``` as an input, and doubles it. It is clear from this then that the object ```x``` must be an integer or float. \n\n\n```python\nmy_function(5)\n```\n\n\n\n\n    10\n\n\n\nWe can also define functions with respect to strings:\n\n\n```python\ndef exclamation(phrase):\n    y = phrase +'!'\n    return (y)\n```\n\n\n```python\nexclamation('I want to go home')\n```\n\n\n\n\n    'I want to go home!'\n\n\n\nA function doesn't necessarily have to return things either. These are known as _void_ functions.\n\n\n```python\ndef strange_func(name):\n    x = \"Hi there \" + name\n```\n\n\n```python\nstrange_func(\"Charles\")\n```\n\nLets explore by what we mean by _returning_ variables in a function. Recall our earlier function double things. Let's assign whatever is returned by that function to a variable.\n\n\n```python\nvalue = my_function(5)\nprint(value)\n```\n\n    10\n\n\nSo you see that value has the number 10 associated with it, which came from the function. Let's look at void functions.\n\n\n```python\nvalue_two = strange_func(\"Charles\")\nprint(value_two)\n```\n\n    None\n\n\nHere we have None associated with our value_two variable, unlike in our previous example. This highlights what happens when we don't return variables in our functions.\n\n### For Loops\n\nIt is hard to understate the importance of For Loops in any programming language. They allow us to create iterative blocks of code, meaning we can 'cycle' through elements of an object. Let's suppose that we are working with a list first. **These are fundamental**.\n\n\n```python\nnumbers = [1,2,3,4,5]\nprint(numbers)\n```\n\n    [1, 2, 3, 4, 5]\n\n\nI want to apply some complex function to each element of my list. In order to do this, I need to first define a function and then use a for loop.\n\n\n```python\ndef complex_function(x):\n    y = x + x**5 + (3*x - 5)**2\n    return(y)\n\n```\n\n\n```python\nfor number in numbers:\n    out = complex_function(number)\n    print(out)\n```\n\n    6\n    35\n    262\n    1077\n    3230\n\n\nPerhaps a more practical example involves applying this function and then 'storing' them in a list so that I can do something else with these values\n\n\n```python\nout_list = []\n\n# Note that the choice of index (in general) does not matter, \n# there are some choices which cause problems but you will recieve an error message.\nfor element in range(0, len(numbers)): \n    out = complex_function(numbers[element])\n    out_list.append(out)\n    \nprint(out_list)\n                    \n                    \n                    \n```\n\n    [6, 35, 262, 1077, 3230]\n\n\n### If Statements\n\nIf statements act like a yes/no statement. If a condition is met, we can program the script to carry out an action. We can also specify what happens if the statement does not hold, we can also combine them with for loops and functions we have defined ourselves.\n\n\n```python\nnumbers = [0,1,2,3,4,5]\n\nfor element in numbers:\n    if element == 2: # == is a boolean logical\n        print('Great')\n    else:\n        print('Not Great')\n```\n\n    Not Great\n    Not Great\n    Great\n    Not Great\n    Not Great\n    Not Great\n\n\n\n```python\nfor element in numbers:\n    if element in [1,3,5]:\n        print('Great')\n    else:\n        print('Not Great')\n```\n\n    Not Great\n    Great\n    Not Great\n    Great\n    Not Great\n    Great\n\n\nIt is worth highlighting the difference between the = and == operator.\n\n= is used to assign a value to variable whilst == is used to check whether does the variable equal to a certain condition.\n\n\n```python\n# Assigns dog to x.\nx = \"dog\"\n\n# Check if x is the word \"cat\"\nif x == \"cat\":\n    print(\"Meow\")\n    \n# Check if x is the word \"dog\"\nif x == \"dog\":\n    print(\"Woof\")\n```\n\n    Woof\n\n\n## 1.3 Pandas, CSV Files and Working With Real Data\n\n### Python Packages\n\nSometimes we need to import 'packages' in order to utilise functions that are not built into the language. One of the most important ones is known as **Pandas**. Pandas is extremley useful for working with and analysing data. Perhaps the most useful feature of this package is it allows us to import data from sources such as .csv files into Python objects known as 'DataFrames'. These DataFrames are made up of rows and columns of data -- similar to other programs such as Excel or R.\n\nA little bit of trivia name of the package comes from the econometrics term -- 'Panel Data'.\n\n\n\n\n\n```python\nimport pandas as pd\n\ndf = pd.read_csv('train.csv')\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n    </tr>\n    <tr>\n      <th>6</th>\n      <td>7</td>\n      <td>0</td>\n      <td>1</td>\n      <td>McCarthy, Mr. Timothy J</td>\n      <td>male</td>\n      <td>54.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>17463</td>\n      <td>51.8625</td>\n      <td>E46</td>\n      <td>S</td>\n    </tr>\n  </tbody>\n</table>\n<p>891 rows × 12 columns</p>\n</div>\n\n\n\n### Creating an indicator variable\n\nYou can work with rows and columns of the DataFrame individually, for example with this one we may be interested in creating an indicator variable for sex. In order to do so we are going to utilise for loops and if statements.\n\n\n```python\nindicator = []\n\nfor row in range(0,len(df)):\n    if df['Sex'][row] == 'male':\n        indicator.append(1)\n    else:\n        indicator.append(0)\n```\n\nThere are many other and in fact computationally more efficient ways to do this in Python, but this method works. \n\n\n```python\ndf['Dummy'] = pd.DataFrame(indicator)\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n      <th>Dummy</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n      <td>1</td>\n    </tr>\n\n  </tbody>\n</table>\n<p>891 rows × 13 columns</p>\n</div>\n\n--- \n# Resources\nDownload the notebook [here](../../../../static/Python-Workshop-1.ipynb)\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "5de094535f5ab7a88ba1e5f15e3a51db",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Basics of Programming",
+        "description": "First look into Python and Programming",
+        "date": "2018-12-30",
+        "_PARENT": "6796e792-7c2a-56bb-bf21-8952ee838951"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Introduction\n\nThroughout these workshops we are going to be teaching you about programming using a language known as [Python](https://www.programiz.com/python-programming). Python is a versatile programming language and currently the [third most popular language](https://hackernoon.com/top-3-most-popular-programming-languages-in-2018-and-their-annual-salaries-51b4a7354e06) in the world. Due to its versatility, it is used in a wide range of applications from analysing data, machine learning, web development, and more. Furthermore, it is ranked as the [most popular tool](https://towardsdatascience.com/r-vs-python-vs-matlab-vs-octave-c28cd059aa69) used in analytics/data science by practioners by a wide margin, with R coming in second. Python's popularity stems from its simple programming syntax and the number of developers who contribute to the different packages you can use in the Python ecosystem (more on what this means later). We are going to be utilising a tool known as [Jupyter Notebooks](https://www.google.com/search?ei=DDYoXN7mDsnTvwTIgLLACA&q=what+is+jupyter+notebook+beginners&oq=what+is+jupyter+notebook+beginners&gs_l=psy-ab.3..33i22i29i30.2714.3837..3972...0.0..0.125.996.5j5......0....1..gws-wiz.......0j0i71j0i20i263.JhkvlfrClvM) which allows us to create and share documents with code easily and in a presentable visual format.\n\nLearning how to program is just like learning a real language. The only way you can learn is by *doing*, and it is really important to understand that you will not learn anything unless you activley try and get involved in the examples we present. You will not become an expert in Python by the end of these workshops, but you will become more literate, and in the same way that people who can speak Italian can understand parts of Spanish. These workshops will help your overall ability to program and work with data in a coherent, efficient manner.\n\n## Why should you be here? (and why should you stay?)\n\n1. *Become more programming literate*: This is invaluable for your honours theses or any research project you may have to do.\n2. *Your Resume*: Employers are becoming increasingly interested in graduates who are able to program or at least familiar with it. \n\n## 1.1 Data Types and Data Structures\n\n### Integers\n\nIntegers are one of the most fundamental data types in Python. Integers are just whole numbers. In Python, as with in many other languages, we are able to assign values to variables that we define:\n\n\n```python\nx = 100\n\nprint(x)\n\ntype(x)\n```\n\n    100\n\n\n\n\n\n    int\n\n\n\nWe can perform basic mathematical operations using these variables:\n\n\n```python\nx = 5\n\ny = 6\n\nz = x + y \n\nprint(z)\nprint(x + y) # We don't NEED to define a new variable\n```\n\n    11\n    11\n\n\n### Strings\n\nStrings are an object that are *generally* used to represent text information. In the same way that we can assign an integer to a variable ```x```, we can do the same with strings. When we are working with strings, it is important to remember to use the quotation marks ' or \".\n\n\n\n```python\nx = 'Hello World'\n\nprint(x)\ntype(x)\n```\n\n    Hello World\n\n\n\n\n\n    str\n\n\n\nStrings are **NOT** treated the same way as integers. It might not be clear right now why this is a problem, but we will see an exercise where it is. \n\nJust like with integers, we can combine strings together. This is known as _concatenation_.\n\n\n```python\nx = \"cat\"\ny = \"dog\"\n\nprint(x + y)\n```\n\n    catdog\n\n\nSomething worthwhile to point out is that you cannot concatenate a string and an integer together.\n\n\n```python\nquantity = 5\nunits = \" kilos\"\n\nprint(quantity + units)\n```\n\n\n    ---------------------------------------------------------------------------\n\n    TypeError                                 Traceback (most recent call last)\n\n    <ipython-input-9-5d1488afa540> in <module>()\n          2 units = \" kilos\"\n          3 \n    ----> 4 print(quantity + units)\n    \n\n    TypeError: unsupported operand type(s) for +: 'int' and 'str'\n\n\nWhat we have to do instead is to turn the integer quantity into a string using the _str_ command before we can concatenate them together.\n\n\n```python\nprint(str(quantity) + units)\n```\n\n    5 kilos\n\n\n### Floats\n\nFloats are similar to Integers, but they involve decimal points. They are used when we need more precision\n\n\n```python\nz = x/y\n\ntype(z)\n```\n\n\n\n\n    float\n\n\n\n### Lists\n\nA 'list' is a collection of arbitrary objects, we define a list using the square brackets:\n\n\n```python\nx = [1, 2, 3, 4, 5]\nprint(x)\n\ny = ['Hello', 'World']\nprint(y)\n```\n\n    [1, 2, 3, 4, 5]\n    ['Hello', 'World']\n\n\nWe can perform functions on lists, for example we may be interested in how many elements are within the list, or we may be interested in a specfic object within the list. These are very basic examples and there are far more functions, but for now these will do.\n\n\n```python\nlen(x)\nx[1] # Python indexing begins at 0!\n```\n\n\n\n\n    2\n\n\n\nNotice that in Python and other programming languages, you start counting from 0 rather than 1. In our list x, the value 1 is actually located at the index 0 whilst the value 2 is located in the index 1.\n\n\n```python\nprint(\"The value at index 0 is \" + str(x[0]))\nprint(\"The value at index 1 is \" + str(x[1]))\n```\n\n    The value at index 0 is 1\n    The value at index 1 is 2\n\n\n### Dictionaries\n\nDictionaries are mappings of unique keys to values, we define a dictionary using the curly brackets: Suppose here we have information about students and their favourite fruit.\n\n\n```python\nx = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\n```\n\nThe unique 'key' is the first entry and the value is the second. If we assign a value to a key, we can retreive the value by reffering to the key. Suppose I want to know what Chris' favourite fruit is:\n\n\n\n```python\nx['Chris']\n```\n\n\n\n\n    'Mangos'\n\n\n\nNotice that it doesn't work the other way around\n\n\n```python\nx['Mangos']\n```\n\n\n    ---------------------------------------------------------------------------\n\n    KeyError                                  Traceback (most recent call last)\n\n    <ipython-input-13-54d0ee1c03d4> in <module>()\n    ----> 1 x['Mangos']\n    \n\n    KeyError: 'Mangos'\n\n\nWe can set anything to be a value, integers, floats, lists, and even more dictionaries!\n\nHere, we have 2 dictionaries containing favourite fruits for 2 groups of people. We can combine these dictionaries by placing them into another dictionary.\n\n\n```python\nboys_dict = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\ngirls_dict = {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n\nnested_dict = {\"Girls\": girls_dict, \"Guys\": boys_dict}\n```\n\n\n```python\nnested_dict\n```\n\n\n\n\n    {'Girls': {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'},\n     'Guys': {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}}\n\n\n\n\n```python\nnested_dict['Girls']\n```\n\n\n\n\n    {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n\n\n\n## 1.2 Functions, For Loops and If Statements\n\nFunctions, 'for' loops and 'if' statements are by far the most ubiquitous and useful commands in your programming arsenal. They allow us to solve more complicated (and interesting) problems by creating scripts that are both recursive and iterative. They also allow us to make our code more succinct, generalisable and efficient.\n\n### Functions\n\nA function is a piece of resuable code that can be used to perform some sort of action. In Python there are 'built in' functions -- which we have seen above, but there are also *user-defined functions*. These are functions that we write ourselves. We can start by defining a function:\n\n\n```python\ndef my_function(x):  # We need to specify a function handle, and some arguments\n    y = x*2  # Multiply x by 2\n    return (y)\n```\n\nThis function takes in some object ```x``` as an input, and doubles it. It is clear from this then that the object ```x``` must be an integer or float. \n\n\n```python\nmy_function(5)\n```\n\n\n\n\n    10\n\n\n\nWe can also define functions with respect to strings:\n\n\n```python\ndef exclamation(phrase):\n    y = phrase +'!'\n    return (y)\n```\n\n\n```python\nexclamation('I want to go home')\n```\n\n\n\n\n    'I want to go home!'\n\n\n\nA function doesn't necessarily have to return things either. These are known as _void_ functions.\n\n\n```python\ndef strange_func(name):\n    x = \"Hi there \" + name\n```\n\n\n```python\nstrange_func(\"Charles\")\n```\n\nLets explore by what we mean by _returning_ variables in a function. Recall our earlier function double things. Let's assign whatever is returned by that function to a variable.\n\n\n```python\nvalue = my_function(5)\nprint(value)\n```\n\n    10\n\n\nSo you see that value has the number 10 associated with it, which came from the function. Let's look at void functions.\n\n\n```python\nvalue_two = strange_func(\"Charles\")\nprint(value_two)\n```\n\n    None\n\n\nHere we have None associated with our value_two variable, unlike in our previous example. This highlights what happens when we don't return variables in our functions.\n\n### For Loops\n\nIt is hard to understate the importance of For Loops in any programming language. They allow us to create iterative blocks of code, meaning we can 'cycle' through elements of an object. Let's suppose that we are working with a list first. **These are fundamental**.\n\n\n```python\nnumbers = [1,2,3,4,5]\nprint(numbers)\n```\n\n    [1, 2, 3, 4, 5]\n\n\nI want to apply some complex function to each element of my list. In order to do this, I need to first define a function and then use a for loop.\n\n\n```python\ndef complex_function(x):\n    y = x + x**5 + (3*x - 5)**2\n    return(y)\n\n```\n\n\n```python\nfor number in numbers:\n    out = complex_function(number)\n    print(out)\n```\n\n    6\n    35\n    262\n    1077\n    3230\n\n\nPerhaps a more practical example involves applying this function and then 'storing' them in a list so that I can do something else with these values\n\n\n```python\nout_list = []\n\n# Note that the choice of index (in general) does not matter, \n# there are some choices which cause problems but you will recieve an error message.\nfor element in range(0, len(numbers)): \n    out = complex_function(numbers[element])\n    out_list.append(out)\n    \nprint(out_list)\n                    \n                    \n                    \n```\n\n    [6, 35, 262, 1077, 3230]\n\n\n### If Statements\n\nIf statements act like a yes/no statement. If a condition is met, we can program the script to carry out an action. We can also specify what happens if the statement does not hold, we can also combine them with for loops and functions we have defined ourselves.\n\n\n```python\nnumbers = [0,1,2,3,4,5]\n\nfor element in numbers:\n    if element == 2: # == is a boolean logical\n        print('Great')\n    else:\n        print('Not Great')\n```\n\n    Not Great\n    Not Great\n    Great\n    Not Great\n    Not Great\n    Not Great\n\n\n\n```python\nfor element in numbers:\n    if element in [1,3,5]:\n        print('Great')\n    else:\n        print('Not Great')\n```\n\n    Not Great\n    Great\n    Not Great\n    Great\n    Not Great\n    Great\n\n\nIt is worth highlighting the difference between the = and == operator.\n\n= is used to assign a value to variable whilst == is used to check whether does the variable equal to a certain condition.\n\n\n```python\n# Assigns dog to x.\nx = \"dog\"\n\n# Check if x is the word \"cat\"\nif x == \"cat\":\n    print(\"Meow\")\n    \n# Check if x is the word \"dog\"\nif x == \"dog\":\n    print(\"Woof\")\n```\n\n    Woof\n\n\n## 1.3 Pandas, CSV Files and Working With Real Data\n\n### Python Packages\n\nSometimes we need to import 'packages' in order to utilise functions that are not built into the language. One of the most important ones is known as **Pandas**. Pandas is extremley useful for working with and analysing data. Perhaps the most useful feature of this package is it allows us to import data from sources such as .csv files into Python objects known as 'DataFrames'. These DataFrames are made up of rows and columns of data -- similar to other programs such as Excel or R.\n\nA little bit of trivia name of the package comes from the econometrics term -- 'Panel Data'.\n\n\n\n\n\n```python\nimport pandas as pd\n\ndf = pd.read_csv('train.csv')\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n    </tr>\n    <tr>\n      <th>6</th>\n      <td>7</td>\n      <td>0</td>\n      <td>1</td>\n      <td>McCarthy, Mr. Timothy J</td>\n      <td>male</td>\n      <td>54.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>17463</td>\n      <td>51.8625</td>\n      <td>E46</td>\n      <td>S</td>\n    </tr>\n  </tbody>\n</table>\n<p>891 rows × 12 columns</p>\n</div>\n\n\n\n### Creating an indicator variable\n\nYou can work with rows and columns of the DataFrame individually, for example with this one we may be interested in creating an indicator variable for sex. In order to do so we are going to utilise for loops and if statements.\n\n\n```python\nindicator = []\n\nfor row in range(0,len(df)):\n    if df['Sex'][row] == 'male':\n        indicator.append(1)\n    else:\n        indicator.append(0)\n```\n\nThere are many other and in fact computationally more efficient ways to do this in Python, but this method works. \n\n\n```python\ndf['Dummy'] = pd.DataFrame(indicator)\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n      <th>Dummy</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n      <td>1</td>\n    </tr>\n\n  </tbody>\n</table>\n<p>891 rows × 13 columns</p>\n</div>\n\n--- \n# Resources\nDownload the notebook [here](../../../../static/Python-Workshop-1.ipynb)\n\n",
+      "fileAbsolutePath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/Week One: Introduction/setup/index.md",
+      "fields": {
+        "slug": "/Week One: Introduction/setup/"
       }
     }
   },
@@ -3649,7 +3471,7 @@
     }
   },
   "jsonDataPaths": {
-    "index": "712/path---index-6a9-qVvcQY4dJUkwhPJlmG8WOeRJjlQ",
+    "index": "107/path---index-6a9-g3FrHv7fNOBnADcaSrMZiVXt5bE",
     "sq--src-components-layout-js": 755544856,
     "setup-coding-environment-185": "36/path---setup-coding-environment-185-333-7mzIyHPkrMzq5cxNvG2ErTSdCk",
     "week-1-introduction-setup-7fd": "125/path---week-1-introduction-setup-7-fd-1eb-qG1MU9xlB8j6yKfQc8lpP7nYEYM",
@@ -3664,7 +3486,7 @@
     "about-f34": "125/path---about-f-34-4c2-NZuapzHg3X9TaN1iIixfv1W23E",
     "contact-26a": "686/path---contact-26-a-cd9-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "week-one-introduction-setup-ba0": "616/path---week-one-introduction-setup-ba-0-467-Fac99lYREhQHVa1gKd5F9xUmzfM",
+    "week-one-introduction-setup-ba0": "188/path---week-one-introduction-setup-ba-0-467-KAsoUdoHTZl6xiXX7DQBucF2xE",
     "week-two-data-wrangling-data-wrangling-7b2": "137/path---week-two-data-wrangling-data-wrangling-7-b-2-7cf-vEfzHoUiw9p4gCrF8PlDTXvrbF4",
     "week-three-models-and-diagnostics-part-one-models-part-one-26d": "94/path---week-three-models-and-diagnostics-part-one-models-part-one-26-d-d58-TfySIg3avDLcINV4fw5tovk1i4",
     "week-four-models-and-diagnostics-part-two-models-part-two-254": "940/path---week-four-models-and-diagnostics-part-two-models-part-two-254-cbc-z5h1fgPfD66vonJ9DRaoylIXM",

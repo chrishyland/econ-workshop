@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Data Science for Economists',
+    title: 'Coding for Economists',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
