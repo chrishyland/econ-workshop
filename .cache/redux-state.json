@@ -1553,12 +1553,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-12-31T04:18:51.801Z",
+      "buildTime": "2018-12-31T07:13:58.837Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "363d251b65d7cba6a86ad24ec281e895",
+        "contentDigest": "87a2aaf8a0fbd532696a43ec5ad1d2ad",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1568,7 +1568,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8b5d742fe6bf7522c40ac151da373226",
+        "contentDigest": "bc7fa6bb864fdae375c7033afaeeb00f",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1580,7 +1580,7 @@
       "size": 480,
       "prettySize": "480 B",
       "modifiedTime": "2018-12-30T04:04:34.697Z",
-      "accessTime": "2018-12-31T04:18:56.764Z",
+      "accessTime": "2018-12-31T07:14:01.137Z",
       "changeTime": "2018-12-30T04:04:34.697Z",
       "birthTime": "2018-12-24T09:57:07.013Z",
       "root": "/",
@@ -1598,11 +1598,11 @@
       "blksize": 4096,
       "ino": 10558898,
       "blocks": 0,
-      "atimeMs": 1546229936764.0813,
+      "atimeMs": 1546240441137.1392,
       "mtimeMs": 1546142674696.7634,
       "ctimeMs": 1546142674696.7634,
       "birthtimeMs": 1545645427013.1426,
-      "atime": "2018-12-31T04:18:56.764Z",
+      "atime": "2018-12-31T07:14:01.137Z",
       "mtime": "2018-12-30T04:04:34.697Z",
       "ctime": "2018-12-30T04:04:34.697Z",
       "birthtime": "2018-12-24T09:57:07.013Z"
@@ -1612,7 +1612,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "61272231d4cedcba45671b954a3073f1",
+        "contentDigest": "a21a8628aae27baf96444c0fff1970f4",
         "type": "Directory",
         "description": "Directory \"src/pages/Setting Up\"",
         "owner": "gatsby-source-filesystem"
@@ -1624,7 +1624,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-12-24T10:18:00.734Z",
-      "accessTime": "2018-12-31T04:18:56.767Z",
+      "accessTime": "2018-12-31T07:14:01.141Z",
       "changeTime": "2018-12-26T03:06:52.302Z",
       "birthTime": "2018-12-24T09:57:07.013Z",
       "root": "/",
@@ -1642,11 +1642,11 @@
       "blksize": 4096,
       "ino": 10558900,
       "blocks": 0,
-      "atimeMs": 1546229936767.4229,
+      "atimeMs": 1546240441141.4695,
       "mtimeMs": 1545646680733.9336,
       "ctimeMs": 1545793612301.8865,
       "birthtimeMs": 1545645427013.4133,
-      "atime": "2018-12-31T04:18:56.767Z",
+      "atime": "2018-12-31T07:14:01.141Z",
       "mtime": "2018-12-24T10:18:00.734Z",
       "ctime": "2018-12-26T03:06:52.302Z",
       "birthtime": "2018-12-24T09:57:07.013Z"
@@ -1656,7 +1656,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ae9deb63871d6c882164470d4598e09e",
+        "contentDigest": "a70005dce5dded92270239749ecbc6e1",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Four: Models and Diagnostics Part Two\"",
         "owner": "gatsby-source-filesystem"
@@ -1668,7 +1668,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:27:11.279Z",
-      "accessTime": "2018-12-31T04:18:56.767Z",
+      "accessTime": "2018-12-31T07:14:01.141Z",
       "changeTime": "2018-12-26T02:39:48.815Z",
       "birthTime": "2018-12-24T10:19:59.379Z",
       "root": "/",
@@ -1686,11 +1686,11 @@
       "blksize": 4096,
       "ino": 10608419,
       "blocks": 0,
-      "atimeMs": 1546229936767.4495,
+      "atimeMs": 1546240441141.457,
       "mtimeMs": 1545647231278.6296,
       "ctimeMs": 1545791988814.7825,
       "birthtimeMs": 1545646799378.533,
-      "atime": "2018-12-31T04:18:56.767Z",
+      "atime": "2018-12-31T07:14:01.141Z",
       "mtime": "2018-12-24T10:27:11.279Z",
       "ctime": "2018-12-26T02:39:48.815Z",
       "birthtime": "2018-12-24T10:19:59.379Z"
@@ -1700,7 +1700,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "68e51c4ea30a936ff71e40c4eef9a022",
+        "contentDigest": "225b8194d20932de70e1a68acaf0892b",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Five: Data Cleaning\"",
         "owner": "gatsby-source-filesystem"
@@ -1712,7 +1712,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:27:04.708Z",
-      "accessTime": "2018-12-31T04:18:56.767Z",
+      "accessTime": "2018-12-31T07:14:01.141Z",
       "changeTime": "2018-12-26T02:39:56.950Z",
       "birthTime": "2018-12-24T10:20:22.958Z",
       "root": "/",
@@ -1730,11 +1730,11 @@
       "blksize": 4096,
       "ino": 10608425,
       "blocks": 0,
-      "atimeMs": 1546229936767.4048,
+      "atimeMs": 1546240441141.4897,
       "mtimeMs": 1545647224707.56,
       "ctimeMs": 1545791996950.085,
       "birthtimeMs": 1545646822958.0378,
-      "atime": "2018-12-31T04:18:56.767Z",
+      "atime": "2018-12-31T07:14:01.141Z",
       "mtime": "2018-12-24T10:27:04.708Z",
       "ctime": "2018-12-26T02:39:56.950Z",
       "birthtime": "2018-12-24T10:20:22.958Z"
@@ -1744,7 +1744,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "b6d1f845d6abae3d15e3e9f60cf17009",
+        "contentDigest": "2b2314d648e8f3a2b734b6ad6f9d37ac",
         "type": "Directory",
         "description": "Directory \"src/pages/Week One: Introduction\"",
         "owner": "gatsby-source-filesystem"
@@ -1756,7 +1756,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:21:05.113Z",
-      "accessTime": "2018-12-31T04:18:56.767Z",
+      "accessTime": "2018-12-31T07:14:01.142Z",
       "changeTime": "2018-12-26T02:39:16.915Z",
       "birthTime": "2018-12-24T09:57:07.014Z",
       "root": "/",
@@ -1774,11 +1774,11 @@
       "blksize": 4096,
       "ino": 10558905,
       "blocks": 0,
-      "atimeMs": 1546229936767.4626,
+      "atimeMs": 1546240441141.5247,
       "mtimeMs": 1545646865112.5598,
       "ctimeMs": 1545791956914.5503,
       "birthtimeMs": 1545645427014.0962,
-      "atime": "2018-12-31T04:18:56.767Z",
+      "atime": "2018-12-31T07:14:01.142Z",
       "mtime": "2018-12-24T10:21:05.113Z",
       "ctime": "2018-12-26T02:39:16.915Z",
       "birthtime": "2018-12-24T09:57:07.014Z"
@@ -1788,7 +1788,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9f43bdf0ba816a6c9c2e0386c3e9518c",
+        "contentDigest": "22b55e1896fd4692483d0b4a5d1194c3",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Six: Putting It All Together\"",
         "owner": "gatsby-source-filesystem"
@@ -1800,7 +1800,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:27:20.566Z",
-      "accessTime": "2018-12-31T04:18:56.767Z",
+      "accessTime": "2018-12-31T07:14:01.142Z",
       "changeTime": "2018-12-26T02:40:06.644Z",
       "birthTime": "2018-12-24T10:20:41.056Z",
       "root": "/",
@@ -1818,11 +1818,11 @@
       "blksize": 4096,
       "ino": 10608428,
       "blocks": 0,
-      "atimeMs": 1546229936767.477,
+      "atimeMs": 1546240441141.5015,
       "mtimeMs": 1545647240565.777,
       "ctimeMs": 1545792006644.0498,
       "birthtimeMs": 1545646841056.1558,
-      "atime": "2018-12-31T04:18:56.767Z",
+      "atime": "2018-12-31T07:14:01.142Z",
       "mtime": "2018-12-24T10:27:20.566Z",
       "ctime": "2018-12-26T02:40:06.644Z",
       "birthtime": "2018-12-24T10:20:41.056Z"
@@ -1832,7 +1832,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9f791e3c7593b055dfd9d802b2ef6d06",
+        "contentDigest": "927fc91bf565c6bb609b1fa97b4f0e8b",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Three: Models and Diagnostics Part One\"",
         "owner": "gatsby-source-filesystem"
@@ -1844,7 +1844,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:25:17.335Z",
-      "accessTime": "2018-12-31T04:18:56.767Z",
+      "accessTime": "2018-12-31T07:14:01.142Z",
       "changeTime": "2018-12-26T02:39:36.925Z",
       "birthTime": "2018-12-24T10:19:41.524Z",
       "root": "/",
@@ -1862,11 +1862,11 @@
       "blksize": 4096,
       "ino": 10608413,
       "blocks": 0,
-      "atimeMs": 1546229936767.4924,
+      "atimeMs": 1546240441141.537,
       "mtimeMs": 1545647117335.3528,
       "ctimeMs": 1545791976925.436,
       "birthtimeMs": 1545646781524.1794,
-      "atime": "2018-12-31T04:18:56.767Z",
+      "atime": "2018-12-31T07:14:01.142Z",
       "mtime": "2018-12-24T10:25:17.335Z",
       "ctime": "2018-12-26T02:39:36.925Z",
       "birthtime": "2018-12-24T10:19:41.524Z"
@@ -1876,7 +1876,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "fb46b631dea9012ed8346efb9971006b",
+        "contentDigest": "2fa041d3df26c8f17de1dc2d84e3a9bc",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Two: Data Wrangling\"",
         "owner": "gatsby-source-filesystem"
@@ -1888,7 +1888,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:21:56.763Z",
-      "accessTime": "2018-12-31T04:18:56.768Z",
+      "accessTime": "2018-12-31T07:14:01.142Z",
       "changeTime": "2018-12-26T02:39:26.898Z",
       "birthTime": "2018-12-24T09:57:07.015Z",
       "root": "/",
@@ -1906,11 +1906,11 @@
       "blksize": 4096,
       "ino": 10558910,
       "blocks": 0,
-      "atimeMs": 1546229936767.603,
+      "atimeMs": 1546240441141.556,
       "mtimeMs": 1545646916763.232,
       "ctimeMs": 1545791966897.8955,
       "birthtimeMs": 1545645427014.8887,
-      "atime": "2018-12-31T04:18:56.768Z",
+      "atime": "2018-12-31T07:14:01.142Z",
       "mtime": "2018-12-24T10:21:56.763Z",
       "ctime": "2018-12-26T02:39:26.898Z",
       "birthtime": "2018-12-24T09:57:07.015Z"
@@ -1920,7 +1920,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "7f82dbedf5c6d9a5d5e9269de6604f79",
+        "contentDigest": "ba90730cccb82d359f912df938a55d4b",
         "type": "Directory",
         "description": "Directory \"src/pages/Setting Up/coding-environment\"",
         "owner": "gatsby-source-filesystem"
@@ -1932,7 +1932,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T09:57:07.014Z",
-      "accessTime": "2018-12-31T04:18:56.770Z",
+      "accessTime": "2018-12-31T07:14:01.144Z",
       "changeTime": "2018-12-24T10:16:29.049Z",
       "birthTime": "2018-12-24T09:57:07.013Z",
       "root": "/",
@@ -1950,11 +1950,11 @@
       "blksize": 4096,
       "ino": 10558901,
       "blocks": 0,
-      "atimeMs": 1546229936770.0251,
+      "atimeMs": 1546240441144.2415,
       "mtimeMs": 1545645427013.5215,
       "ctimeMs": 1545646589049.3271,
       "birthtimeMs": 1545645427013.459,
-      "atime": "2018-12-31T04:18:56.770Z",
+      "atime": "2018-12-31T07:14:01.144Z",
       "mtime": "2018-12-24T09:57:07.014Z",
       "ctime": "2018-12-24T10:16:29.049Z",
       "birthtime": "2018-12-24T09:57:07.013Z"
@@ -1964,7 +1964,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ce8bc0980f098e5da4be5de06c23ced8",
+        "contentDigest": "1b6ccbf622a4323a682685033805ceee",
         "type": "Directory",
         "description": "Directory \"src/pages/Setting Up/programming-tips\"",
         "owner": "gatsby-source-filesystem"
@@ -1976,7 +1976,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T09:57:07.014Z",
-      "accessTime": "2018-12-31T04:18:56.770Z",
+      "accessTime": "2018-12-31T07:14:01.144Z",
       "changeTime": "2018-12-24T10:18:00.734Z",
       "birthTime": "2018-12-24T09:57:07.014Z",
       "root": "/",
@@ -1994,11 +1994,11 @@
       "blksize": 4096,
       "ino": 10558903,
       "blocks": 0,
-      "atimeMs": 1546229936770.039,
+      "atimeMs": 1546240441144.2292,
       "mtimeMs": 1545645427013.8135,
       "ctimeMs": 1545646680733.9333,
       "birthtimeMs": 1545645427013.7512,
-      "atime": "2018-12-31T04:18:56.770Z",
+      "atime": "2018-12-31T07:14:01.144Z",
       "mtime": "2018-12-24T09:57:07.014Z",
       "ctime": "2018-12-24T10:18:00.734Z",
       "birthtime": "2018-12-24T09:57:07.014Z"
@@ -2008,7 +2008,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "8db3a76cc9bfbcc76d76617f30a635d3",
+        "contentDigest": "3fc38f2a741ef563d9952bb2127bac71",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Four: Models and Diagnostics Part Two/models-part-two\"",
         "owner": "gatsby-source-filesystem"
@@ -2020,7 +2020,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:27:34.324Z",
-      "accessTime": "2018-12-31T04:18:56.770Z",
+      "accessTime": "2018-12-31T07:14:01.144Z",
       "changeTime": "2018-12-24T10:27:34.324Z",
       "birthTime": "2018-12-24T10:27:11.279Z",
       "root": "/",
@@ -2038,11 +2038,11 @@
       "blksize": 4096,
       "ino": 10608741,
       "blocks": 0,
-      "atimeMs": 1546229936770.059,
+      "atimeMs": 1546240441144.2136,
       "mtimeMs": 1545647254324.4727,
       "ctimeMs": 1545647254324.4727,
       "birthtimeMs": 1545647231278.618,
-      "atime": "2018-12-31T04:18:56.770Z",
+      "atime": "2018-12-31T07:14:01.144Z",
       "mtime": "2018-12-24T10:27:34.324Z",
       "ctime": "2018-12-24T10:27:34.324Z",
       "birthtime": "2018-12-24T10:27:11.279Z"
@@ -2052,7 +2052,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "547e7cb8abedf88b118ec69ce0ec7af1",
+        "contentDigest": "7f9777df96b03088a7ffecd72b0419a4",
         "type": "Directory",
         "description": "Directory \"src/pages/Week One: Introduction/setup\"",
         "owner": "gatsby-source-filesystem"
@@ -2064,7 +2064,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T09:57:07.014Z",
-      "accessTime": "2018-12-31T04:18:56.770Z",
+      "accessTime": "2018-12-31T07:14:01.144Z",
       "changeTime": "2018-12-24T10:21:05.113Z",
       "birthTime": "2018-12-24T09:57:07.014Z",
       "root": "/",
@@ -2082,11 +2082,11 @@
       "blksize": 4096,
       "ino": 10558906,
       "blocks": 0,
-      "atimeMs": 1546229936770.0862,
+      "atimeMs": 1546240441144.2837,
       "mtimeMs": 1545645427014.2183,
       "ctimeMs": 1545646865112.5596,
       "birthtimeMs": 1545645427014.1467,
-      "atime": "2018-12-31T04:18:56.770Z",
+      "atime": "2018-12-31T07:14:01.144Z",
       "mtime": "2018-12-24T09:57:07.014Z",
       "ctime": "2018-12-24T10:21:05.113Z",
       "birthtime": "2018-12-24T09:57:07.014Z"
@@ -2096,7 +2096,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "9d466bbd0e226ee6b917e7319da6653c",
+        "contentDigest": "c19bac84eea3cf614617ec6581fdba3f",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Five: Data Cleaning/data-cleaning\"",
         "owner": "gatsby-source-filesystem"
@@ -2108,7 +2108,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:30:34.910Z",
-      "accessTime": "2018-12-31T04:18:56.770Z",
+      "accessTime": "2018-12-31T07:14:01.144Z",
       "changeTime": "2018-12-24T10:30:34.910Z",
       "birthTime": "2018-12-24T10:26:51.344Z",
       "root": "/",
@@ -2126,11 +2126,11 @@
       "blksize": 4096,
       "ino": 10608737,
       "blocks": 0,
-      "atimeMs": 1546229936770.0117,
+      "atimeMs": 1546240441144.2568,
       "mtimeMs": 1545647434910.127,
       "ctimeMs": 1545647434910.127,
       "birthtimeMs": 1545647211344.3894,
-      "atime": "2018-12-31T04:18:56.770Z",
+      "atime": "2018-12-31T07:14:01.144Z",
       "mtime": "2018-12-24T10:30:34.910Z",
       "ctime": "2018-12-24T10:30:34.910Z",
       "birthtime": "2018-12-24T10:26:51.344Z"
@@ -2140,7 +2140,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "22ee516dde0e3e3f3f898e47e212b635",
+        "contentDigest": "b59cb157c462da5cf28ab7a1a26ac577",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Six: Putting It All Together/wrapup\"",
         "owner": "gatsby-source-filesystem"
@@ -2152,7 +2152,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:31:07.094Z",
-      "accessTime": "2018-12-31T04:18:56.770Z",
+      "accessTime": "2018-12-31T07:14:01.144Z",
       "changeTime": "2018-12-24T10:31:07.094Z",
       "birthTime": "2018-12-24T10:27:20.566Z",
       "root": "/",
@@ -2170,11 +2170,11 @@
       "blksize": 4096,
       "ino": 10608745,
       "blocks": 0,
-      "atimeMs": 1546229936770.0984,
+      "atimeMs": 1546240441144.269,
       "mtimeMs": 1545647467093.6284,
       "ctimeMs": 1545647467093.6284,
       "birthtimeMs": 1545647240565.7659,
-      "atime": "2018-12-31T04:18:56.770Z",
+      "atime": "2018-12-31T07:14:01.144Z",
       "mtime": "2018-12-24T10:31:07.094Z",
       "ctime": "2018-12-24T10:31:07.094Z",
       "birthtime": "2018-12-24T10:27:20.566Z"
@@ -2184,7 +2184,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "02e42bbf54ca029de84ad0faeacb2d3e",
+        "contentDigest": "b8baf639834f600eced3a6326f77896e",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Two: Data Wrangling/data-wrangling\"",
         "owner": "gatsby-source-filesystem"
@@ -2196,7 +2196,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-12-24T09:57:07.015Z",
-      "accessTime": "2018-12-31T04:18:56.770Z",
+      "accessTime": "2018-12-31T07:14:01.144Z",
       "changeTime": "2018-12-24T10:21:56.763Z",
       "birthTime": "2018-12-24T09:57:07.015Z",
       "root": "/",
@@ -2214,11 +2214,11 @@
       "blksize": 4096,
       "ino": 10558911,
       "blocks": 0,
-      "atimeMs": 1546229936770.2744,
+      "atimeMs": 1546240441144.3132,
       "mtimeMs": 1545645427015.2222,
       "ctimeMs": 1545646916763.2317,
       "birthtimeMs": 1545645427014.9343,
-      "atime": "2018-12-31T04:18:56.770Z",
+      "atime": "2018-12-31T07:14:01.144Z",
       "mtime": "2018-12-24T09:57:07.015Z",
       "ctime": "2018-12-24T10:21:56.763Z",
       "birthtime": "2018-12-24T09:57:07.015Z"
@@ -2228,7 +2228,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "af7b45d4cd8054480177ef409fbb0c5f",
+        "contentDigest": "7f12ba6d0041daac373e8b0b872e02cd",
         "type": "Directory",
         "description": "Directory \"src/pages/Week Three: Models and Diagnostics Part One/models-part-one\"",
         "owner": "gatsby-source-filesystem"
@@ -2240,7 +2240,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-12-24T10:26:07.135Z",
-      "accessTime": "2018-12-31T04:18:56.770Z",
+      "accessTime": "2018-12-31T07:14:01.144Z",
       "changeTime": "2018-12-24T10:26:07.135Z",
       "birthTime": "2018-12-24T10:25:17.335Z",
       "root": "/",
@@ -2258,11 +2258,11 @@
       "blksize": 4096,
       "ino": 10608656,
       "blocks": 0,
-      "atimeMs": 1546229936770.1167,
+      "atimeMs": 1546240441144.2964,
       "mtimeMs": 1545647167135.3442,
       "ctimeMs": 1545647167135.3442,
       "birthtimeMs": 1545647117335.3408,
-      "atime": "2018-12-31T04:18:56.770Z",
+      "atime": "2018-12-31T07:14:01.144Z",
       "mtime": "2018-12-24T10:26:07.135Z",
       "ctime": "2018-12-24T10:26:07.135Z",
       "birthtime": "2018-12-24T10:25:17.335Z"
@@ -2652,9 +2652,9 @@
       "extension": "md",
       "size": 18188,
       "prettySize": "18.2 kB",
-      "modifiedTime": "2018-12-31T03:36:41.997Z",
-      "accessTime": "2018-12-31T03:35:43.335Z",
-      "changeTime": "2018-12-31T03:36:41.997Z",
+      "modifiedTime": "2018-12-31T07:18:19.218Z",
+      "accessTime": "2018-12-31T07:18:16.393Z",
+      "changeTime": "2018-12-31T07:18:19.218Z",
       "birthTime": "2018-12-24T09:57:07.014Z",
       "root": "/",
       "dir": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/Week One: Introduction/setup",
@@ -2671,13 +2671,13 @@
       "blksize": 4096,
       "ino": 10558907,
       "blocks": 40,
-      "atimeMs": 1546227343335.3252,
-      "mtimeMs": 1546227401996.781,
-      "ctimeMs": 1546227401996.781,
+      "atimeMs": 1546240696392.8672,
+      "mtimeMs": 1546240699218.4575,
+      "ctimeMs": 1546240699218.4575,
       "birthtimeMs": 1545645427014.2122,
-      "atime": "2018-12-31T03:35:43.335Z",
-      "mtime": "2018-12-31T03:36:41.997Z",
-      "ctime": "2018-12-31T03:36:41.997Z",
+      "atime": "2018-12-31T07:18:16.393Z",
+      "mtime": "2018-12-31T07:18:19.218Z",
+      "ctime": "2018-12-31T07:18:19.218Z",
       "birthtime": "2018-12-24T09:57:07.014Z"
     },
     "2e96c11b-aea0-53f7-8174-92dd23148f1d": {
@@ -3055,32 +3055,6 @@
         "slug": "/Week Six: Putting It All Together/wrapup/"
       }
     },
-    "53822749-1e62-5c6a-ad3f-18eeb2973d92": {
-      "id": "53822749-1e62-5c6a-ad3f-18eeb2973d92",
-      "children": [],
-      "parent": "6796e792-7c2a-56bb-bf21-8952ee838951",
-      "internal": {
-        "content": "\n## Introduction\n\nThroughout these workshops we are going to be teaching you about programming using a language known as [Python](https://www.programiz.com/python-programming). Python is a versatile programming language and currently the [third most popular language](https://hackernoon.com/top-3-most-popular-programming-languages-in-2018-and-their-annual-salaries-51b4a7354e06) in the world. Due to its versatility, it is used in a wide range of applications from analysing data, machine learning, web development, and more. Furthermore, it is ranked as the [most popular tool](https://towardsdatascience.com/r-vs-python-vs-matlab-vs-octave-c28cd059aa69) used in analytics/data science by practioners by a wide margin, with R coming in second. Python's popularity stems from its simple programming syntax and the number of developers who contribute to the different packages you can use in the Python ecosystem (more on what this means later). We are going to be utilising a tool known as [Jupyter Notebooks](https://www.google.com/search?ei=DDYoXN7mDsnTvwTIgLLACA&q=what+is+jupyter+notebook+beginners&oq=what+is+jupyter+notebook+beginners&gs_l=psy-ab.3..33i22i29i30.2714.3837..3972...0.0..0.125.996.5j5......0....1..gws-wiz.......0j0i71j0i20i263.JhkvlfrClvM) which allows us to create and share documents with code easily and in a presentable visual format.\n\nLearning how to program is just like learning a real language. The only way you can learn is by *doing*, and it is really important to understand that you will not learn anything unless you activley try and get involved in the examples we present. You will not become an expert in Python by the end of these workshops, but you will become more literate, and in the same way that people who can speak Italian can understand parts of Spanish. These workshops will help your overall ability to program and work with data in a coherent, efficient manner.\n\n## Why should you be here? (and why should you stay?)\n\n1. *Become more programming literate*: This is invaluable for your honours theses or any research project you may have to do.\n2. *Your Resume*: Employers are becoming increasingly interested in graduates who are able to program or at least familiar with it. \n\n## 1.1 Data Types and Data Structures\n\n### Integers\n\nIntegers are one of the most fundamental data types in Python. Integers are just whole numbers. In Python, as with in many other languages, we are able to assign values to variables that we define:\n\n\n```python\nx = 100\n\nprint(x)\n\ntype(x)\n```\n```\n    100\n    int\n```\n\n\nWe can perform basic mathematical operations using these variables:\n\n\n```python\nx = 5\n\ny = 6\n\nz = x + y \n\nprint(z)\nprint(x + y) # We don't NEED to define a new variable\n```\n```\n    11\n    11\n```\n\n### Strings\n\nStrings are an object that are *generally* used to represent text information. In the same way that we can assign an integer to a variable ```x```, we can do the same with strings. When we are working with strings, it is important to remember to use the quotation marks ' or \".\n\n\n\n```python\nx = 'Hello World'\n\nprint(x)\ntype(x)\n```\n```\n    Hello World\n    str\n```\n\n\nStrings are **NOT** treated the same way as integers. It might not be clear right now why this is a problem, but we will see an exercise where it is. \n\nJust like with integers, we can combine strings together. This is known as _concatenation_.\n\n\n```python\nx = \"cat\"\ny = \"dog\"\n\nprint(x + y)\n```\n```\n    catdog\n```\n\nSomething worthwhile to point out is that you cannot concatenate a string and an integer together.\n\n\n```python\nquantity = 5\nunits = \" kilos\"\n\nprint(quantity + units)\n```\n\n```\n    ---------------------------------------------------------------------------\n\n    TypeError                                 Traceback (most recent call last)\n\n    <ipython-input-9-5d1488afa540> in <module>()\n          2 units = \" kilos\"\n          3 \n    ----> 4 print(quantity + units)\n    \n\n    TypeError: unsupported operand type(s) for +: 'int' and 'str'\n```\n\nWhat we have to do instead is to turn the integer quantity into a string using the _str_ command before we can concatenate them together.\n\n\n```python\nprint(str(quantity) + units)\n```\n```\n    5 kilos\n```\n\n### Floats\n\nFloats are similar to Integers, but they involve decimal points. They are used when we need more precision\n\n\n```python\nz = x/y\n\ntype(z)\n```\n\n\n\n```\n    float\n```\n\n\n### Lists\n\nA 'list' is a collection of arbitrary objects, we define a list using the square brackets:\n\n\n```python\nx = [1, 2, 3, 4, 5]\nprint(x)\n\ny = ['Hello', 'World']\nprint(y)\n```\n```\n    [1, 2, 3, 4, 5]\n    ['Hello', 'World']\n```\n\nWe can perform functions on lists, for example we may be interested in how many elements are within the list, or we may be interested in a specfic object within the list. These are very basic examples and there are far more functions, but for now these will do.\n\n\n```python\nlen(x)\nx[1] # Python indexing begins at 0!\n```\n\n\n\n```\n    2\n```\n\n\nNotice that in Python and other programming languages, you start counting from 0 rather than 1. In our list x, the value 1 is actually located at the index 0 whilst the value 2 is located in the index 1.\n\n\n```python\nprint(\"The value at index 0 is \" + str(x[0]))\nprint(\"The value at index 1 is \" + str(x[1]))\n```\n\n```\n    The value at index 0 is 1\n    The value at index 1 is 2\n```\n\n### Dictionaries\n\nDictionaries are mappings of unique keys to values, we define a dictionary using the curly brackets: Suppose here we have information about students and their favourite fruit.\n\n\n```python\nx = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\n```\n\nThe unique 'key' is the first entry and the value is the second. If we assign a value to a key, we can retreive the value by reffering to the key. Suppose I want to know what Chris' favourite fruit is:\n\n\n\n```python\nx['Chris']\n```\n\n\n\n```\n    'Mangos'\n```\n\n\nNotice that it doesn't work the other way around\n\n\n```python\nx['Mangos']\n```\n\n```\n    ---------------------------------------------------------------------------\n\n    KeyError                                  Traceback (most recent call last)\n\n    <ipython-input-13-54d0ee1c03d4> in <module>()\n    ----> 1 x['Mangos']\n    \n\n    KeyError: 'Mangos'\n```\n\nWe can set anything to be a value, integers, floats, lists, and even more dictionaries!\n\nHere, we have 2 dictionaries containing favourite fruits for 2 groups of people. We can combine these dictionaries by placing them into another dictionary.\n\n\n```python\nboys_dict = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\ngirls_dict = {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n\nnested_dict = {\"Girls\": girls_dict, \"Guys\": boys_dict}\n```\n\n\n```python\nnested_dict\n```\n\n\n\n```\n    {'Girls': {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'},\n     'Guys': {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}}\n```\n\n\n\n```python\nnested_dict['Girls']\n```\n\n\n\n```\n    {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n```\n\n\n## 1.2 Functions, For Loops and If Statements\n\nFunctions, 'for' loops and 'if' statements are by far the most ubiquitous and useful commands in your programming arsenal. They allow us to solve more complicated (and interesting) problems by creating scripts that are both recursive and iterative. They also allow us to make our code more succinct, generalisable and efficient.\n\n### Functions\n\nA function is a piece of resuable code that can be used to perform some sort of action. In Python there are 'built in' functions -- which we have seen above, but there are also *user-defined functions*. These are functions that we write ourselves. We can start by defining a function:\n\n\n```python\ndef my_function(x):  # We need to specify a function handle, and some arguments\n    y = x*2  # Multiply x by 2\n    return (y)\n```\n\nThis function takes in some object _x_ as an input, and doubles it. It is clear from this then that the object _x_ must be an integer or float. \n\n\n```python\nmy_function(5)\n```\n```\n    10\n```\n\n\nWe can also define functions with respect to strings:\n\n\n```python\ndef exclamation(phrase):\n    y = phrase +'!'\n    return (y)\n```\n\n\n```python\nexclamation('I want to go home')\n```\n\n\n\n```\n    'I want to go home!'\n```\n\n\nA function doesn't necessarily have to return things either. These are known as _void_ functions.\n\n\n```python\ndef strange_func(name):\n    x = \"Hi there \" + name\n```\n\n\n```python\nstrange_func(\"Charles\")\n```\n\nLets explore by what we mean by _returning_ variables in a function. Recall our earlier function double things. Let's assign whatever is returned by that function to a variable.\n\n\n```python\nvalue = my_function(5)\nprint(value)\n```\n\n```\n    10\n```\n\nSo you see that value has the number 10 associated with it, which came from the function. Let's look at void functions.\n\n\n```python\nvalue_two = strange_func(\"Charles\")\nprint(value_two)\n```\n\n```\n    None\n```\n\nHere we have None associated with our value_two variable, unlike in our previous example. This highlights what happens when we don't return variables in our functions.\n\n### For Loops\n\nIt is hard to understate the importance of For Loops in any programming language. They allow us to create iterative blocks of code, meaning we can 'cycle' through elements of an object. Let's suppose that we are working with a list first. **These are fundamental**.\n\n\n```python\nnumbers = [1,2,3,4,5]\nprint(numbers)\n```\n\n```\n    [1, 2, 3, 4, 5]\n```\n\nI want to apply some complex function to each element of my list. In order to do this, I need to first define a function and then use a for loop.\n\n\n```python\ndef complex_function(x):\n    y = x + x**5 + (3*x - 5)**2\n    return(y)\n\n```\n\n\n```python\nfor number in numbers:\n    out = complex_function(number)\n    print(out)\n```\n\n```\n    6\n    35\n    262\n    1077\n    3230\n```\n\nPerhaps a more practical example involves applying this function and then 'storing' them in a list so that I can do something else with these values\n\n\n```python\nout_list = []\n\n# Note that the choice of index (in general) does not matter, \n# there are some choices which cause problems but you will recieve an error message.\nfor element in range(0, len(numbers)): \n    out = complex_function(numbers[element])\n    out_list.append(out)\n    \nprint(out_list)\n                    \n                    \n                    \n```\n\n    [6, 35, 262, 1077, 3230]\n\n\n### If Statements\n\nIf statements act like a yes/no statement. If a condition is met, we can program the script to carry out an action. We can also specify what happens if the statement does not hold, we can also combine them with for loops and functions we have defined ourselves.\n\n\n```python\nnumbers = [0,1,2,3,4,5]\n\nfor element in numbers:\n    if element == 2: # == is a boolean logical\n        print('Great')\n    else:\n        print('Not Great')\n```\n```\n    Not Great\n    Not Great\n    Great\n    Not Great\n    Not Great\n    Not Great\n```\n\n\n```python\nfor element in numbers:\n    if element in [1,3,5]:\n        print('Great')\n    else:\n        print('Not Great')\n```\n\n```\n    Not Great\n    Great\n    Not Great\n    Great\n    Not Great\n    Great\n```\n\nIt is worth highlighting the difference between the = and == operator.\n\n= is used to assign a value to variable whilst == is used to check whether does the variable equal to a certain condition.\n\n\n```python\n# Assigns dog to x.\nx = \"dog\"\n\n# Check if x is the word \"cat\"\nif x == \"cat\":\n    print(\"Meow\")\n    \n# Check if x is the word \"dog\"\nif x == \"dog\":\n    print(\"Woof\")\n```\n```\n    Woof\n```\n\n## 1.3 Pandas, CSV Files and Working With Real Data\n\n### Python Packages\n\nSometimes we need to import 'packages' in order to utilise functions that are not built into the language. One of the most important ones is known as **Pandas**. Pandas is extremley useful for working with and analysing data. Perhaps the most useful feature of this package is it allows us to import data from sources such as .csv files into Python objects known as 'DataFrames'. These DataFrames are made up of rows and columns of data -- similar to other programs such as Excel or R.\n\nA little bit of trivia name of the package comes from the econometrics term -- 'Panel Data'.\n\n\n\n\n\n```python\nimport pandas as pd\n\ndf = pd.read_csv('train.csv')\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n    </tr>\n    <tr>\n      <th>6</th>\n      <td>7</td>\n      <td>0</td>\n      <td>1</td>\n      <td>McCarthy, Mr. Timothy J</td>\n      <td>male</td>\n      <td>54.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>17463</td>\n      <td>51.8625</td>\n      <td>E46</td>\n      <td>S</td>\n    </tr>\n  </tbody>\n</table>\n<p>891 rows × 12 columns</p>\n</div>\n\n\n\n### Creating an indicator variable\n\nYou can work with rows and columns of the DataFrame individually, for example with this one we may be interested in creating an indicator variable for sex. In order to do so we are going to utilise for loops and if statements.\n\n\n```python\nindicator = []\n\nfor row in range(0,len(df)):\n    if df['Sex'][row] == 'male':\n        indicator.append(1)\n    else:\n        indicator.append(0)\n```\n\nThere are many other and in fact computationally more efficient ways to do this in Python, but this method works. \n\n\n```python\ndf['Dummy'] = pd.DataFrame(indicator)\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n      <th>Dummy</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n      <td>1</td>\n    </tr>\n\n  </tbody>\n</table>\n<p>891 rows × 13 columns</p>\n</div>\n\n--- \n# Resources\nDownload the notebook [here](../../../../static/Python-Workshop-1.ipynb)\n\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "23bbf31aa5b207e49c7aa3cbf9d0c789",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Basics of Programming",
-        "description": "First look into Python and Programming",
-        "date": "2018-12-30",
-        "_PARENT": "6796e792-7c2a-56bb-bf21-8952ee838951"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\n## Introduction\n\nThroughout these workshops we are going to be teaching you about programming using a language known as [Python](https://www.programiz.com/python-programming). Python is a versatile programming language and currently the [third most popular language](https://hackernoon.com/top-3-most-popular-programming-languages-in-2018-and-their-annual-salaries-51b4a7354e06) in the world. Due to its versatility, it is used in a wide range of applications from analysing data, machine learning, web development, and more. Furthermore, it is ranked as the [most popular tool](https://towardsdatascience.com/r-vs-python-vs-matlab-vs-octave-c28cd059aa69) used in analytics/data science by practioners by a wide margin, with R coming in second. Python's popularity stems from its simple programming syntax and the number of developers who contribute to the different packages you can use in the Python ecosystem (more on what this means later). We are going to be utilising a tool known as [Jupyter Notebooks](https://www.google.com/search?ei=DDYoXN7mDsnTvwTIgLLACA&q=what+is+jupyter+notebook+beginners&oq=what+is+jupyter+notebook+beginners&gs_l=psy-ab.3..33i22i29i30.2714.3837..3972...0.0..0.125.996.5j5......0....1..gws-wiz.......0j0i71j0i20i263.JhkvlfrClvM) which allows us to create and share documents with code easily and in a presentable visual format.\n\nLearning how to program is just like learning a real language. The only way you can learn is by *doing*, and it is really important to understand that you will not learn anything unless you activley try and get involved in the examples we present. You will not become an expert in Python by the end of these workshops, but you will become more literate, and in the same way that people who can speak Italian can understand parts of Spanish. These workshops will help your overall ability to program and work with data in a coherent, efficient manner.\n\n## Why should you be here? (and why should you stay?)\n\n1. *Become more programming literate*: This is invaluable for your honours theses or any research project you may have to do.\n2. *Your Resume*: Employers are becoming increasingly interested in graduates who are able to program or at least familiar with it. \n\n## 1.1 Data Types and Data Structures\n\n### Integers\n\nIntegers are one of the most fundamental data types in Python. Integers are just whole numbers. In Python, as with in many other languages, we are able to assign values to variables that we define:\n\n\n```python\nx = 100\n\nprint(x)\n\ntype(x)\n```\n```\n    100\n    int\n```\n\n\nWe can perform basic mathematical operations using these variables:\n\n\n```python\nx = 5\n\ny = 6\n\nz = x + y \n\nprint(z)\nprint(x + y) # We don't NEED to define a new variable\n```\n```\n    11\n    11\n```\n\n### Strings\n\nStrings are an object that are *generally* used to represent text information. In the same way that we can assign an integer to a variable ```x```, we can do the same with strings. When we are working with strings, it is important to remember to use the quotation marks ' or \".\n\n\n\n```python\nx = 'Hello World'\n\nprint(x)\ntype(x)\n```\n```\n    Hello World\n    str\n```\n\n\nStrings are **NOT** treated the same way as integers. It might not be clear right now why this is a problem, but we will see an exercise where it is. \n\nJust like with integers, we can combine strings together. This is known as _concatenation_.\n\n\n```python\nx = \"cat\"\ny = \"dog\"\n\nprint(x + y)\n```\n```\n    catdog\n```\n\nSomething worthwhile to point out is that you cannot concatenate a string and an integer together.\n\n\n```python\nquantity = 5\nunits = \" kilos\"\n\nprint(quantity + units)\n```\n\n```\n    ---------------------------------------------------------------------------\n\n    TypeError                                 Traceback (most recent call last)\n\n    <ipython-input-9-5d1488afa540> in <module>()\n          2 units = \" kilos\"\n          3 \n    ----> 4 print(quantity + units)\n    \n\n    TypeError: unsupported operand type(s) for +: 'int' and 'str'\n```\n\nWhat we have to do instead is to turn the integer quantity into a string using the _str_ command before we can concatenate them together.\n\n\n```python\nprint(str(quantity) + units)\n```\n```\n    5 kilos\n```\n\n### Floats\n\nFloats are similar to Integers, but they involve decimal points. They are used when we need more precision\n\n\n```python\nz = x/y\n\ntype(z)\n```\n\n\n\n```\n    float\n```\n\n\n### Lists\n\nA 'list' is a collection of arbitrary objects, we define a list using the square brackets:\n\n\n```python\nx = [1, 2, 3, 4, 5]\nprint(x)\n\ny = ['Hello', 'World']\nprint(y)\n```\n```\n    [1, 2, 3, 4, 5]\n    ['Hello', 'World']\n```\n\nWe can perform functions on lists, for example we may be interested in how many elements are within the list, or we may be interested in a specfic object within the list. These are very basic examples and there are far more functions, but for now these will do.\n\n\n```python\nlen(x)\nx[1] # Python indexing begins at 0!\n```\n\n\n\n```\n    2\n```\n\n\nNotice that in Python and other programming languages, you start counting from 0 rather than 1. In our list x, the value 1 is actually located at the index 0 whilst the value 2 is located in the index 1.\n\n\n```python\nprint(\"The value at index 0 is \" + str(x[0]))\nprint(\"The value at index 1 is \" + str(x[1]))\n```\n\n```\n    The value at index 0 is 1\n    The value at index 1 is 2\n```\n\n### Dictionaries\n\nDictionaries are mappings of unique keys to values, we define a dictionary using the curly brackets: Suppose here we have information about students and their favourite fruit.\n\n\n```python\nx = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\n```\n\nThe unique 'key' is the first entry and the value is the second. If we assign a value to a key, we can retreive the value by reffering to the key. Suppose I want to know what Chris' favourite fruit is:\n\n\n\n```python\nx['Chris']\n```\n\n\n\n```\n    'Mangos'\n```\n\n\nNotice that it doesn't work the other way around\n\n\n```python\nx['Mangos']\n```\n\n```\n    ---------------------------------------------------------------------------\n\n    KeyError                                  Traceback (most recent call last)\n\n    <ipython-input-13-54d0ee1c03d4> in <module>()\n    ----> 1 x['Mangos']\n    \n\n    KeyError: 'Mangos'\n```\n\nWe can set anything to be a value, integers, floats, lists, and even more dictionaries!\n\nHere, we have 2 dictionaries containing favourite fruits for 2 groups of people. We can combine these dictionaries by placing them into another dictionary.\n\n\n```python\nboys_dict = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\ngirls_dict = {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n\nnested_dict = {\"Girls\": girls_dict, \"Guys\": boys_dict}\n```\n\n\n```python\nnested_dict\n```\n\n\n\n```\n    {'Girls': {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'},\n     'Guys': {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}}\n```\n\n\n\n```python\nnested_dict['Girls']\n```\n\n\n\n```\n    {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n```\n\n\n## 1.2 Functions, For Loops and If Statements\n\nFunctions, 'for' loops and 'if' statements are by far the most ubiquitous and useful commands in your programming arsenal. They allow us to solve more complicated (and interesting) problems by creating scripts that are both recursive and iterative. They also allow us to make our code more succinct, generalisable and efficient.\n\n### Functions\n\nA function is a piece of resuable code that can be used to perform some sort of action. In Python there are 'built in' functions -- which we have seen above, but there are also *user-defined functions*. These are functions that we write ourselves. We can start by defining a function:\n\n\n```python\ndef my_function(x):  # We need to specify a function handle, and some arguments\n    y = x*2  # Multiply x by 2\n    return (y)\n```\n\nThis function takes in some object _x_ as an input, and doubles it. It is clear from this then that the object _x_ must be an integer or float. \n\n\n```python\nmy_function(5)\n```\n```\n    10\n```\n\n\nWe can also define functions with respect to strings:\n\n\n```python\ndef exclamation(phrase):\n    y = phrase +'!'\n    return (y)\n```\n\n\n```python\nexclamation('I want to go home')\n```\n\n\n\n```\n    'I want to go home!'\n```\n\n\nA function doesn't necessarily have to return things either. These are known as _void_ functions.\n\n\n```python\ndef strange_func(name):\n    x = \"Hi there \" + name\n```\n\n\n```python\nstrange_func(\"Charles\")\n```\n\nLets explore by what we mean by _returning_ variables in a function. Recall our earlier function double things. Let's assign whatever is returned by that function to a variable.\n\n\n```python\nvalue = my_function(5)\nprint(value)\n```\n\n```\n    10\n```\n\nSo you see that value has the number 10 associated with it, which came from the function. Let's look at void functions.\n\n\n```python\nvalue_two = strange_func(\"Charles\")\nprint(value_two)\n```\n\n```\n    None\n```\n\nHere we have None associated with our value_two variable, unlike in our previous example. This highlights what happens when we don't return variables in our functions.\n\n### For Loops\n\nIt is hard to understate the importance of For Loops in any programming language. They allow us to create iterative blocks of code, meaning we can 'cycle' through elements of an object. Let's suppose that we are working with a list first. **These are fundamental**.\n\n\n```python\nnumbers = [1,2,3,4,5]\nprint(numbers)\n```\n\n```\n    [1, 2, 3, 4, 5]\n```\n\nI want to apply some complex function to each element of my list. In order to do this, I need to first define a function and then use a for loop.\n\n\n```python\ndef complex_function(x):\n    y = x + x**5 + (3*x - 5)**2\n    return(y)\n\n```\n\n\n```python\nfor number in numbers:\n    out = complex_function(number)\n    print(out)\n```\n\n```\n    6\n    35\n    262\n    1077\n    3230\n```\n\nPerhaps a more practical example involves applying this function and then 'storing' them in a list so that I can do something else with these values\n\n\n```python\nout_list = []\n\n# Note that the choice of index (in general) does not matter, \n# there are some choices which cause problems but you will recieve an error message.\nfor element in range(0, len(numbers)): \n    out = complex_function(numbers[element])\n    out_list.append(out)\n    \nprint(out_list)\n                    \n                    \n                    \n```\n\n    [6, 35, 262, 1077, 3230]\n\n\n### If Statements\n\nIf statements act like a yes/no statement. If a condition is met, we can program the script to carry out an action. We can also specify what happens if the statement does not hold, we can also combine them with for loops and functions we have defined ourselves.\n\n\n```python\nnumbers = [0,1,2,3,4,5]\n\nfor element in numbers:\n    if element == 2: # == is a boolean logical\n        print('Great')\n    else:\n        print('Not Great')\n```\n```\n    Not Great\n    Not Great\n    Great\n    Not Great\n    Not Great\n    Not Great\n```\n\n\n```python\nfor element in numbers:\n    if element in [1,3,5]:\n        print('Great')\n    else:\n        print('Not Great')\n```\n\n```\n    Not Great\n    Great\n    Not Great\n    Great\n    Not Great\n    Great\n```\n\nIt is worth highlighting the difference between the = and == operator.\n\n= is used to assign a value to variable whilst == is used to check whether does the variable equal to a certain condition.\n\n\n```python\n# Assigns dog to x.\nx = \"dog\"\n\n# Check if x is the word \"cat\"\nif x == \"cat\":\n    print(\"Meow\")\n    \n# Check if x is the word \"dog\"\nif x == \"dog\":\n    print(\"Woof\")\n```\n```\n    Woof\n```\n\n## 1.3 Pandas, CSV Files and Working With Real Data\n\n### Python Packages\n\nSometimes we need to import 'packages' in order to utilise functions that are not built into the language. One of the most important ones is known as **Pandas**. Pandas is extremley useful for working with and analysing data. Perhaps the most useful feature of this package is it allows us to import data from sources such as .csv files into Python objects known as 'DataFrames'. These DataFrames are made up of rows and columns of data -- similar to other programs such as Excel or R.\n\nA little bit of trivia name of the package comes from the econometrics term -- 'Panel Data'.\n\n\n\n\n\n```python\nimport pandas as pd\n\ndf = pd.read_csv('train.csv')\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n    </tr>\n    <tr>\n      <th>6</th>\n      <td>7</td>\n      <td>0</td>\n      <td>1</td>\n      <td>McCarthy, Mr. Timothy J</td>\n      <td>male</td>\n      <td>54.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>17463</td>\n      <td>51.8625</td>\n      <td>E46</td>\n      <td>S</td>\n    </tr>\n  </tbody>\n</table>\n<p>891 rows × 12 columns</p>\n</div>\n\n\n\n### Creating an indicator variable\n\nYou can work with rows and columns of the DataFrame individually, for example with this one we may be interested in creating an indicator variable for sex. In order to do so we are going to utilise for loops and if statements.\n\n\n```python\nindicator = []\n\nfor row in range(0,len(df)):\n    if df['Sex'][row] == 'male':\n        indicator.append(1)\n    else:\n        indicator.append(0)\n```\n\nThere are many other and in fact computationally more efficient ways to do this in Python, but this method works. \n\n\n```python\ndf['Dummy'] = pd.DataFrame(indicator)\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n      <th>Dummy</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n      <td>1</td>\n    </tr>\n\n  </tbody>\n</table>\n<p>891 rows × 13 columns</p>\n</div>\n\n--- \n# Resources\nDownload the notebook [here](../../../../static/Python-Workshop-1.ipynb)\n\n",
-      "fileAbsolutePath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/Week One: Introduction/setup/index.md",
-      "fields": {
-        "slug": "/Week One: Introduction/setup/"
-      }
-    },
     "1789b029-bd49-57f4-bb74-2c8ebb766562": {
       "id": "1789b029-bd49-57f4-bb74-2c8ebb766562",
       "children": [],
@@ -3407,6 +3381,32 @@
         "contentDigest": "8f6173045994de56a7768940f380bd40",
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
+      }
+    },
+    "53822749-1e62-5c6a-ad3f-18eeb2973d92": {
+      "id": "53822749-1e62-5c6a-ad3f-18eeb2973d92",
+      "children": [],
+      "parent": "6796e792-7c2a-56bb-bf21-8952ee838951",
+      "internal": {
+        "content": "\n## Introduction\n\nThroughout these workshops we are going to be teaching you about programming using a language known as [Python](https://www.programiz.com/python-programming). Python is a versatile programming language and currently the [third most popular language](https://hackernoon.com/top-3-most-popular-programming-languages-in-2018-and-their-annual-salaries-51b4a7354e06) in the world. Due to its versatility, it is used in a wide range of applications from analysing data, machine learning, web development, and more. Furthermore, it is ranked as the [most popular tool](https://towardsdatascience.com/r-vs-python-vs-matlab-vs-octave-c28cd059aa69) used in analytics/data science by practioners by a wide margin, with R coming in second. Python's popularity stems from its simple programming syntax and the number of developers who contribute to the different packages you can use in the Python ecosystem (more on what this means later). We are going to be utilising a tool known as [Jupyter Notebooks](https://www.google.com/search?ei=DDYoXN7mDsnTvwTIgLLACA&q=what+is+jupyter+notebook+beginners&oq=what+is+jupyter+notebook+beginners&gs_l=psy-ab.3..33i22i29i30.2714.3837..3972...0.0..0.125.996.5j5......0....1..gws-wiz.......0j0i71j0i20i263.JhkvlfrClvM) which allows us to create and share documents with code easily and in a presentable visual format.\n\nLearning how to program is just like learning a real language. The only way you can learn is by *doing*, and it is really important to understand that you will not learn anything unless you activley try and get involved in the examples we present. You will not become an expert in Python by the end of these workshops, but you will become more literate, and in the same way that people who can speak Italian can understand parts of Spanish. These workshops will help your overall ability to program and work with data in a coherent, efficient manner.\n\n## Why should you be here? (and why should you stay?)\n\n1. *Become more programming literate*: This is invaluable for your honours theses or any research project you may have to do.\n2. *Your Resume*: Employers are becoming increasingly interested in graduates who are able to program or at least familiar with it. \n\n## 1.1 Data Types and Data Structures\n\n### Integers\n\nIntegers are one of the most fundamental data types in Python. Integers are just whole numbers. In Python, as with in many other languages, we are able to assign values to variables that we define:\n\n\n```python\nx = 100\n\nprint(x)\n\ntype(x)\n```\n```\n    100\n    int\n```\n\n\nWe can perform basic mathematical operations using these variables:\n\n\n```python\nx = 5\n\ny = 6\n\nz = x + y \n\nprint(z)\nprint(x + y) # We don't NEED to define a new variable\n```\n```\n    11\n    11\n```\n\n### Strings\n\nStrings are an object that are *generally* used to represent text information. In the same way that we can assign an integer to a variable ```x```, we can do the same with strings. When we are working with strings, it is important to remember to use the quotation marks ' or \".\n\n\n\n```python\nx = 'Hello World'\n\nprint(x)\ntype(x)\n```\n```\n    Hello World\n    str\n```\n\n\nStrings are **NOT** treated the same way as integers. It might not be clear right now why this is a problem, but we will see an exercise where it is. \n\nJust like with integers, we can combine strings together. This is known as _concatenation_.\n\n\n```python\nx = \"cat\"\ny = \"dog\"\n\nprint(x + y)\n```\n```\n    catdog\n```\n\nSomething worthwhile to point out is that you cannot concatenate a string and an integer together.\n\n\n```python\nquantity = 5\nunits = \" kilos\"\n\nprint(quantity + units)\n```\n\n```\n    ---------------------------------------------------------------------------\n\n    TypeError                                 Traceback (most recent call last)\n\n    <ipython-input-9-5d1488afa540> in <module>()\n          2 units = \" kilos\"\n          3 \n    ----> 4 print(quantity + units)\n    \n\n    TypeError: unsupported operand type(s) for +: 'int' and 'str'\n```\n\nWhat we have to do instead is to turn the integer quantity into a string using the _str_ command before we can concatenate them together.\n\n\n```python\nprint(str(quantity) + units)\n```\n```\n    5 kilos\n```\n\n### Floats\n\nFloats are similar to Integers, but they involve decimal points. They are used when we need more precision\n\n\n```python\nz = x/y\n\ntype(z)\n```\n\n\n\n```\n    float\n```\n\n\n### Lists\n\nA 'list' is a collection of arbitrary objects, we define a list using the square brackets:\n\n\n```python\nx = [1, 2, 3, 4, 5]\nprint(x)\n\ny = ['Hello', 'World']\nprint(y)\n```\n```\n    [1, 2, 3, 4, 5]\n    ['Hello', 'World']\n```\n\nWe can perform functions on lists, for example we may be interested in how many elements are within the list, or we may be interested in a specfic object within the list. These are very basic examples and there are far more functions, but for now these will do.\n\n\n```python\nlen(x)\nx[1] # Python indexing begins at 0!\n```\n\n\n\n```\n    2\n```\n\n\nNotice that in Python and other programming languages, you start counting from 0 rather than 1. In our list x, the value 1 is actually located at the index 0 whilst the value 2 is located in the index 1.\n\n\n```python\nprint(\"The value at index 0 is \" + str(x[0]))\nprint(\"The value at index 1 is \" + str(x[1]))\n```\n\n```\n    The value at index 0 is 1\n    The value at index 1 is 2\n```\n\n### Dictionaries\n\nDictionaries are mappings of unique keys to values, we define a dictionary using the curly brackets: Suppose here we have information about students and their favourite fruit.\n\n\n```python\nx = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\n```\n\nThe unique 'key' is the first entry and the value is the second. If we assign a value to a key, we can retreive the value by reffering to the key. Suppose I want to know what Chris' favourite fruit is:\n\n\n\n```python\nx['Chris']\n```\n\n\n\n```\n    'Mangos'\n```\n\n\nNotice that it doesn't work the other way around\n\n\n```python\nx['Mangos']\n```\n\n```\n    ---------------------------------------------------------------------------\n\n    KeyError                                  Traceback (most recent call last)\n\n    <ipython-input-13-54d0ee1c03d4> in <module>()\n    ----> 1 x['Mangos']\n    \n\n    KeyError: 'Mangos'\n```\n\nWe can set anything to be a value, integers, floats, lists, and even more dictionaries!\n\nHere, we have 2 dictionaries containing favourite fruits for 2 groups of people. We can combine these dictionaries by placing them into another dictionary.\n\n\n```python\nboys_dict = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\ngirls_dict = {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n\nnested_dict = {\"Girls\": girls_dict, \"Guys\": boys_dict}\n```\n\n\n```python\nnested_dict\n```\n\n\n\n```\n    {'Girls': {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'},\n     'Guys': {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}}\n```\n\n\n\n```python\nnested_dict['Girls']\n```\n\n\n\n```\n    {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n```\n\n\n## 1.2 Functions, For Loops and If Statements\n\nFunctions, 'for' loops and 'if' statements are by far the most ubiquitous and useful commands in your programming arsenal. They allow us to solve more complicated (and interesting) problems by creating scripts that are both recursive and iterative. They also allow us to make our code more succinct, generalisable and efficient.\n\n### Functions\n\nA function is a piece of resuable code that can be used to perform some sort of action. In Python there are 'built in' functions -- which we have seen above, but there are also *user-defined functions*. These are functions that we write ourselves. We can start by defining a function:\n\n\n```python\ndef my_function(x):  # We need to specify a function handle, and some arguments\n    y = x*2  # Multiply x by 2\n    return (y)\n```\n\nThis function takes in some object _x_ as an input, and doubles it. It is clear from this then that the object _x_ must be an integer or float. \n\n\n```python\nmy_function(5)\n```\n```\n    10\n```\n\n\nWe can also define functions with respect to strings:\n\n\n```python\ndef exclamation(phrase):\n    y = phrase +'!'\n    return (y)\n```\n\n\n```python\nexclamation('I want to go home')\n```\n\n\n\n```\n    'I want to go home!'\n```\n\n\nA function doesn't necessarily have to return things either. These are known as _void_ functions.\n\n\n```python\ndef strange_func(name):\n    x = \"Hi there \" + name\n```\n\n\n```python\nstrange_func(\"Charles\")\n```\n\nLets explore by what we mean by _returning_ variables in a function. Recall our earlier function double things. Let's assign whatever is returned by that function to a variable.\n\n\n```python\nvalue = my_function(5)\nprint(value)\n```\n\n```\n    10\n```\n\nSo you see that value has the number 10 associated with it, which came from the function. Let's look at void functions.\n\n\n```python\nvalue_two = strange_func(\"Charles\")\nprint(value_two)\n```\n\n```\n    None\n```\n\nHere we have None associated with our value_two variable, unlike in our previous example. This highlights what happens when we don't return variables in our functions.\n\n### For Loops\n\nIt is hard to understate the importance of For Loops in any programming language. They allow us to create iterative blocks of code, meaning we can 'cycle' through elements of an object. Let's suppose that we are working with a list first. **These are fundamental**.\n\n\n```python\nnumbers = [1,2,3,4,5]\nprint(numbers)\n```\n\n```\n    [1, 2, 3, 4, 5]\n```\n\nI want to apply some complex function to each element of my list. In order to do this, I need to first define a function and then use a for loop.\n\n\n```python\ndef complex_function(x):\n    y = x + x**5 + (3*x - 5)**2\n    return(y)\n\n```\n\n\n```python\nfor number in numbers:\n    out = complex_function(number)\n    print(out)\n```\n\n```\n    6\n    35\n    262\n    1077\n    3230\n```\n\nPerhaps a more practical example involves applying this function and then 'storing' them in a list so that I can do something else with these values\n\n\n```python\nout_list = []\n\n# Note that the choice of index (in general) does not matter, \n# there are some choices which cause problems but you will recieve an error message.\nfor element in range(0, len(numbers)): \n    out = complex_function(numbers[element])\n    out_list.append(out)\n    \nprint(out_list)\n                    \n                    \n                    \n```\n\n    [6, 35, 262, 1077, 3230]\n\n\n### If Statements\n\nIf statements act like a yes/no statement. If a condition is met, we can program the script to carry out an action. We can also specify what happens if the statement does not hold, we can also combine them with for loops and functions we have defined ourselves.\n\n\n```python\nnumbers = [0,1,2,3,4,5]\n\nfor element in numbers:\n    if element == 2: # == is a boolean logical\n        print('Great')\n    else:\n        print('Not Great')\n```\n```\n    Not Great\n    Not Great\n    Great\n    Not Great\n    Not Great\n    Not Great\n```\n\n\n```python\nfor element in numbers:\n    if element in [1,3,5]:\n        print('Great')\n    else:\n        print('Not Great')\n```\n\n```\n    Not Great\n    Great\n    Not Great\n    Great\n    Not Great\n    Great\n```\n\nIt is worth highlighting the difference between the = and == operator.\n\n= is used to assign a value to variable whilst == is used to check whether does the variable equal to a certain condition.\n\n\n```python\n# Assigns dog to x.\nx = \"dog\"\n\n# Check if x is the word \"cat\"\nif x == \"cat\":\n    print(\"Meow\")\n    \n# Check if x is the word \"dog\"\nif x == \"dog\":\n    print(\"Woof\")\n```\n```\n    Woof\n```\n\n## 1.3 Pandas, CSV Files and Working With Real Data\n\n### Python Packages\n\nSometimes we need to import 'packages' in order to utilise functions that are not built into the language. One of the most important ones is known as **Pandas**. Pandas is extremley useful for working with and analysing data. Perhaps the most useful feature of this package is it allows us to import data from sources such as .csv files into Python objects known as 'DataFrames'. These DataFrames are made up of rows and columns of data -- similar to other programs such as Excel or R.\n\nA little bit of trivia name of the package comes from the econometrics term -- 'Panel Data'.\n\n\n\n\n\n```python\nimport pandas as pd\n\ndf = pd.read_csv('train.csv')\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n    </tr>\n    <tr>\n      <th>6</th>\n      <td>7</td>\n      <td>0</td>\n      <td>1</td>\n      <td>McCarthy, Mr. Timothy J</td>\n      <td>male</td>\n      <td>54.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>17463</td>\n      <td>51.8625</td>\n      <td>E46</td>\n      <td>S</td>\n    </tr>\n  </tbody>\n</table>\n<p>891 rows × 12 columns</p>\n</div>\n\n\n\n### Creating an indicator variable\n\nYou can work with rows and columns of the DataFrame individually, for example with this one we may be interested in creating an indicator variable for sex. In order to do so we are going to utilise for loops and if statements.\n\n\n```python\nindicator = []\n\nfor row in range(0,len(df)):\n    if df['Sex'][row] == 'male':\n        indicator.append(1)\n    else:\n        indicator.append(0)\n```\n\nThere are many other and in fact computationally more efficient ways to do this in Python, but this method works. \n\n\n```python\ndf['Dummy'] = pd.DataFrame(indicator)\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n      <th>Dummy</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n      <td>1</td>\n    </tr>\n\n  </tbody>\n</table>\n<p>891 rows × 13 columns</p>\n</div>\n\n--- \n# Resources\nDownload the notebook [here](../../../../static/Python-Workshop-1.ipynb)\n\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "23bbf31aa5b207e49c7aa3cbf9d0c789",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Basics of Programming",
+        "description": "First look into Python and Programming",
+        "date": "2018-12-30",
+        "_PARENT": "6796e792-7c2a-56bb-bf21-8952ee838951"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\n## Introduction\n\nThroughout these workshops we are going to be teaching you about programming using a language known as [Python](https://www.programiz.com/python-programming). Python is a versatile programming language and currently the [third most popular language](https://hackernoon.com/top-3-most-popular-programming-languages-in-2018-and-their-annual-salaries-51b4a7354e06) in the world. Due to its versatility, it is used in a wide range of applications from analysing data, machine learning, web development, and more. Furthermore, it is ranked as the [most popular tool](https://towardsdatascience.com/r-vs-python-vs-matlab-vs-octave-c28cd059aa69) used in analytics/data science by practioners by a wide margin, with R coming in second. Python's popularity stems from its simple programming syntax and the number of developers who contribute to the different packages you can use in the Python ecosystem (more on what this means later). We are going to be utilising a tool known as [Jupyter Notebooks](https://www.google.com/search?ei=DDYoXN7mDsnTvwTIgLLACA&q=what+is+jupyter+notebook+beginners&oq=what+is+jupyter+notebook+beginners&gs_l=psy-ab.3..33i22i29i30.2714.3837..3972...0.0..0.125.996.5j5......0....1..gws-wiz.......0j0i71j0i20i263.JhkvlfrClvM) which allows us to create and share documents with code easily and in a presentable visual format.\n\nLearning how to program is just like learning a real language. The only way you can learn is by *doing*, and it is really important to understand that you will not learn anything unless you activley try and get involved in the examples we present. You will not become an expert in Python by the end of these workshops, but you will become more literate, and in the same way that people who can speak Italian can understand parts of Spanish. These workshops will help your overall ability to program and work with data in a coherent, efficient manner.\n\n## Why should you be here? (and why should you stay?)\n\n1. *Become more programming literate*: This is invaluable for your honours theses or any research project you may have to do.\n2. *Your Resume*: Employers are becoming increasingly interested in graduates who are able to program or at least familiar with it. \n\n## 1.1 Data Types and Data Structures\n\n### Integers\n\nIntegers are one of the most fundamental data types in Python. Integers are just whole numbers. In Python, as with in many other languages, we are able to assign values to variables that we define:\n\n\n```python\nx = 100\n\nprint(x)\n\ntype(x)\n```\n```\n    100\n    int\n```\n\n\nWe can perform basic mathematical operations using these variables:\n\n\n```python\nx = 5\n\ny = 6\n\nz = x + y \n\nprint(z)\nprint(x + y) # We don't NEED to define a new variable\n```\n```\n    11\n    11\n```\n\n### Strings\n\nStrings are an object that are *generally* used to represent text information. In the same way that we can assign an integer to a variable ```x```, we can do the same with strings. When we are working with strings, it is important to remember to use the quotation marks ' or \".\n\n\n\n```python\nx = 'Hello World'\n\nprint(x)\ntype(x)\n```\n```\n    Hello World\n    str\n```\n\n\nStrings are **NOT** treated the same way as integers. It might not be clear right now why this is a problem, but we will see an exercise where it is. \n\nJust like with integers, we can combine strings together. This is known as _concatenation_.\n\n\n```python\nx = \"cat\"\ny = \"dog\"\n\nprint(x + y)\n```\n```\n    catdog\n```\n\nSomething worthwhile to point out is that you cannot concatenate a string and an integer together.\n\n\n```python\nquantity = 5\nunits = \" kilos\"\n\nprint(quantity + units)\n```\n\n```\n    ---------------------------------------------------------------------------\n\n    TypeError                                 Traceback (most recent call last)\n\n    <ipython-input-9-5d1488afa540> in <module>()\n          2 units = \" kilos\"\n          3 \n    ----> 4 print(quantity + units)\n    \n\n    TypeError: unsupported operand type(s) for +: 'int' and 'str'\n```\n\nWhat we have to do instead is to turn the integer quantity into a string using the _str_ command before we can concatenate them together.\n\n\n```python\nprint(str(quantity) + units)\n```\n```\n    5 kilos\n```\n\n### Floats\n\nFloats are similar to Integers, but they involve decimal points. They are used when we need more precision\n\n\n```python\nz = x/y\n\ntype(z)\n```\n\n\n\n```\n    float\n```\n\n\n### Lists\n\nA 'list' is a collection of arbitrary objects, we define a list using the square brackets:\n\n\n```python\nx = [1, 2, 3, 4, 5]\nprint(x)\n\ny = ['Hello', 'World']\nprint(y)\n```\n```\n    [1, 2, 3, 4, 5]\n    ['Hello', 'World']\n```\n\nWe can perform functions on lists, for example we may be interested in how many elements are within the list, or we may be interested in a specfic object within the list. These are very basic examples and there are far more functions, but for now these will do.\n\n\n```python\nlen(x)\nx[1] # Python indexing begins at 0!\n```\n\n\n\n```\n    2\n```\n\n\nNotice that in Python and other programming languages, you start counting from 0 rather than 1. In our list x, the value 1 is actually located at the index 0 whilst the value 2 is located in the index 1.\n\n\n```python\nprint(\"The value at index 0 is \" + str(x[0]))\nprint(\"The value at index 1 is \" + str(x[1]))\n```\n\n```\n    The value at index 0 is 1\n    The value at index 1 is 2\n```\n\n### Dictionaries\n\nDictionaries are mappings of unique keys to values, we define a dictionary using the curly brackets: Suppose here we have information about students and their favourite fruit.\n\n\n```python\nx = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\n```\n\nThe unique 'key' is the first entry and the value is the second. If we assign a value to a key, we can retreive the value by reffering to the key. Suppose I want to know what Chris' favourite fruit is:\n\n\n\n```python\nx['Chris']\n```\n\n\n\n```\n    'Mangos'\n```\n\n\nNotice that it doesn't work the other way around\n\n\n```python\nx['Mangos']\n```\n\n```\n    ---------------------------------------------------------------------------\n\n    KeyError                                  Traceback (most recent call last)\n\n    <ipython-input-13-54d0ee1c03d4> in <module>()\n    ----> 1 x['Mangos']\n    \n\n    KeyError: 'Mangos'\n```\n\nWe can set anything to be a value, integers, floats, lists, and even more dictionaries!\n\nHere, we have 2 dictionaries containing favourite fruits for 2 groups of people. We can combine these dictionaries by placing them into another dictionary.\n\n\n```python\nboys_dict = {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}\ngirls_dict = {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n\nnested_dict = {\"Girls\": girls_dict, \"Guys\": boys_dict}\n```\n\n\n```python\nnested_dict\n```\n\n\n\n```\n    {'Girls': {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'},\n     'Guys': {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}}\n```\n\n\n\n```python\nnested_dict['Girls']\n```\n\n\n\n```\n    {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}\n```\n\n\n## 1.2 Functions, For Loops and If Statements\n\nFunctions, 'for' loops and 'if' statements are by far the most ubiquitous and useful commands in your programming arsenal. They allow us to solve more complicated (and interesting) problems by creating scripts that are both recursive and iterative. They also allow us to make our code more succinct, generalisable and efficient.\n\n### Functions\n\nA function is a piece of resuable code that can be used to perform some sort of action. In Python there are 'built in' functions -- which we have seen above, but there are also *user-defined functions*. These are functions that we write ourselves. We can start by defining a function:\n\n\n```python\ndef my_function(x):  # We need to specify a function handle, and some arguments\n    y = x*2  # Multiply x by 2\n    return (y)\n```\n\nThis function takes in some object _x_ as an input, and doubles it. It is clear from this then that the object _x_ must be an integer or float. \n\n\n```python\nmy_function(5)\n```\n```\n    10\n```\n\n\nWe can also define functions with respect to strings:\n\n\n```python\ndef exclamation(phrase):\n    y = phrase +'!'\n    return (y)\n```\n\n\n```python\nexclamation('I want to go home')\n```\n\n\n\n```\n    'I want to go home!'\n```\n\n\nA function doesn't necessarily have to return things either. These are known as _void_ functions.\n\n\n```python\ndef strange_func(name):\n    x = \"Hi there \" + name\n```\n\n\n```python\nstrange_func(\"Charles\")\n```\n\nLets explore by what we mean by _returning_ variables in a function. Recall our earlier function double things. Let's assign whatever is returned by that function to a variable.\n\n\n```python\nvalue = my_function(5)\nprint(value)\n```\n\n```\n    10\n```\n\nSo you see that value has the number 10 associated with it, which came from the function. Let's look at void functions.\n\n\n```python\nvalue_two = strange_func(\"Charles\")\nprint(value_two)\n```\n\n```\n    None\n```\n\nHere we have None associated with our value_two variable, unlike in our previous example. This highlights what happens when we don't return variables in our functions.\n\n### For Loops\n\nIt is hard to understate the importance of For Loops in any programming language. They allow us to create iterative blocks of code, meaning we can 'cycle' through elements of an object. Let's suppose that we are working with a list first. **These are fundamental**.\n\n\n```python\nnumbers = [1,2,3,4,5]\nprint(numbers)\n```\n\n```\n    [1, 2, 3, 4, 5]\n```\n\nI want to apply some complex function to each element of my list. In order to do this, I need to first define a function and then use a for loop.\n\n\n```python\ndef complex_function(x):\n    y = x + x**5 + (3*x - 5)**2\n    return(y)\n\n```\n\n\n```python\nfor number in numbers:\n    out = complex_function(number)\n    print(out)\n```\n\n```\n    6\n    35\n    262\n    1077\n    3230\n```\n\nPerhaps a more practical example involves applying this function and then 'storing' them in a list so that I can do something else with these values\n\n\n```python\nout_list = []\n\n# Note that the choice of index (in general) does not matter, \n# there are some choices which cause problems but you will recieve an error message.\nfor element in range(0, len(numbers)): \n    out = complex_function(numbers[element])\n    out_list.append(out)\n    \nprint(out_list)\n                    \n                    \n                    \n```\n\n    [6, 35, 262, 1077, 3230]\n\n\n### If Statements\n\nIf statements act like a yes/no statement. If a condition is met, we can program the script to carry out an action. We can also specify what happens if the statement does not hold, we can also combine them with for loops and functions we have defined ourselves.\n\n\n```python\nnumbers = [0,1,2,3,4,5]\n\nfor element in numbers:\n    if element == 2: # == is a boolean logical\n        print('Great')\n    else:\n        print('Not Great')\n```\n```\n    Not Great\n    Not Great\n    Great\n    Not Great\n    Not Great\n    Not Great\n```\n\n\n```python\nfor element in numbers:\n    if element in [1,3,5]:\n        print('Great')\n    else:\n        print('Not Great')\n```\n\n```\n    Not Great\n    Great\n    Not Great\n    Great\n    Not Great\n    Great\n```\n\nIt is worth highlighting the difference between the = and == operator.\n\n= is used to assign a value to variable whilst == is used to check whether does the variable equal to a certain condition.\n\n\n```python\n# Assigns dog to x.\nx = \"dog\"\n\n# Check if x is the word \"cat\"\nif x == \"cat\":\n    print(\"Meow\")\n    \n# Check if x is the word \"dog\"\nif x == \"dog\":\n    print(\"Woof\")\n```\n```\n    Woof\n```\n\n## 1.3 Pandas, CSV Files and Working With Real Data\n\n### Python Packages\n\nSometimes we need to import 'packages' in order to utilise functions that are not built into the language. One of the most important ones is known as **Pandas**. Pandas is extremley useful for working with and analysing data. Perhaps the most useful feature of this package is it allows us to import data from sources such as .csv files into Python objects known as 'DataFrames'. These DataFrames are made up of rows and columns of data -- similar to other programs such as Excel or R.\n\nA little bit of trivia name of the package comes from the econometrics term -- 'Panel Data'.\n\n\n\n\n\n```python\nimport pandas as pd\n\ndf = pd.read_csv('train.csv')\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n    </tr>\n    <tr>\n      <th>6</th>\n      <td>7</td>\n      <td>0</td>\n      <td>1</td>\n      <td>McCarthy, Mr. Timothy J</td>\n      <td>male</td>\n      <td>54.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>17463</td>\n      <td>51.8625</td>\n      <td>E46</td>\n      <td>S</td>\n    </tr>\n  </tbody>\n</table>\n<p>891 rows × 12 columns</p>\n</div>\n\n\n\n### Creating an indicator variable\n\nYou can work with rows and columns of the DataFrame individually, for example with this one we may be interested in creating an indicator variable for sex. In order to do so we are going to utilise for loops and if statements.\n\n\n```python\nindicator = []\n\nfor row in range(0,len(df)):\n    if df['Sex'][row] == 'male':\n        indicator.append(1)\n    else:\n        indicator.append(0)\n```\n\nThere are many other and in fact computationally more efficient ways to do this in Python, but this method works. \n\n\n```python\ndf['Dummy'] = pd.DataFrame(indicator)\ndf\n```\n\n\n\n\n<div>\n<style>\n    .dataframe thead tr:only-child th {\n        text-align: right;\n    }\n\n    .dataframe thead th {\n        text-align: left;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>PassengerId</th>\n      <th>Survived</th>\n      <th>Pclass</th>\n      <th>Name</th>\n      <th>Sex</th>\n      <th>Age</th>\n      <th>SibSp</th>\n      <th>Parch</th>\n      <th>Ticket</th>\n      <th>Fare</th>\n      <th>Cabin</th>\n      <th>Embarked</th>\n      <th>Dummy</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>1</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Braund, Mr. Owen Harris</td>\n      <td>male</td>\n      <td>22.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>A/5 21171</td>\n      <td>7.2500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>2</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Cumings, Mrs. John Bradley (Florence Briggs Th...</td>\n      <td>female</td>\n      <td>38.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>PC 17599</td>\n      <td>71.2833</td>\n      <td>C85</td>\n      <td>C</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>3</td>\n      <td>1</td>\n      <td>3</td>\n      <td>Heikkinen, Miss. Laina</td>\n      <td>female</td>\n      <td>26.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>STON/O2. 3101282</td>\n      <td>7.9250</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>4</td>\n      <td>1</td>\n      <td>1</td>\n      <td>Futrelle, Mrs. Jacques Heath (Lily May Peel)</td>\n      <td>female</td>\n      <td>35.0</td>\n      <td>1</td>\n      <td>0</td>\n      <td>113803</td>\n      <td>53.1000</td>\n      <td>C123</td>\n      <td>S</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>5</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Allen, Mr. William Henry</td>\n      <td>male</td>\n      <td>35.0</td>\n      <td>0</td>\n      <td>0</td>\n      <td>373450</td>\n      <td>8.0500</td>\n      <td>NaN</td>\n      <td>S</td>\n      <td>1</td>\n    </tr>\n    <tr>\n      <th>5</th>\n      <td>6</td>\n      <td>0</td>\n      <td>3</td>\n      <td>Moran, Mr. James</td>\n      <td>male</td>\n      <td>NaN</td>\n      <td>0</td>\n      <td>0</td>\n      <td>330877</td>\n      <td>8.4583</td>\n      <td>NaN</td>\n      <td>Q</td>\n      <td>1</td>\n    </tr>\n\n  </tbody>\n</table>\n<p>891 rows × 13 columns</p>\n</div>\n\n--- \n# Resources\nDownload the notebook [here](../../../../static/Python-Workshop-1.ipynb)\n\n",
+      "fileAbsolutePath": "/Users/charleshyland/Dropbox/University-work/5th year/Econ-Workshops/website/econ-workshop/src/pages/Week One: Introduction/setup/index.md",
+      "fields": {
+        "slug": "/Week One: Introduction/setup/"
       }
     }
   },
