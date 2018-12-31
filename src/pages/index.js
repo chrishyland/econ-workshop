@@ -20,7 +20,6 @@ const IndexPage = (props) => {
   console.log(subjects);
   return (
     <Layout>
-        
         <p style={{marginTop: '3em', marginBottom: '2em', textAlign: 'center'}}> This course aims to be an introduction to beginner level programming in the language Python. Below are resources for the course content. They are categorised on a weekly basis. You will find a tutorial post with the corresponding Jupyter Notebook attached to the bottom of the post.</p>
         <Accordion>
         {subjects.map((arr, i) => (

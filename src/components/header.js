@@ -1,6 +1,8 @@
 import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import React from 'react'
+import { MenuItem, Nav, NavDropdown, Navbar, NavItem } from "react-bootstrap";
+
 
 const ListLink = props => (
   <li style={{ display: `inline-block`, marginRight: `3rem` }}>
@@ -8,44 +10,24 @@ const ListLink = props => (
   </li>
 )
 
+
 const Header = ({ siteTitle }) => (
   <div
     style={{
-      marginTop: '2rem',
-      marginBottom: '1.5rem',
-      marginLeft: '2.5rem',
-
+      "background-color": "#f4f4f4",
     }}
   >
-      <ul style={{listStyle: `none`, float: `right`,  width: '100%', fontColor: 'black', textAlign: 'right', fontSize: '1em' }}>
-        <ListLink to="/">Home</ListLink>
-        <ListLink to="/about/">About</ListLink>
-        <ListLink to="/contact/">Contact</ListLink>
-      </ul>
-    
-    <div
-      style={{
-        margin: '0 auto',
-        textAlign: 'center',
-        maxWidth: 900,
-        padding: '1.45rem 1.0875rem',
-      }}
-    >
-      <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: 'black',
-            fontFamily: 'arial',
-            textDecoration: 'none',
-            textAlign: 'center',
-            fontsize: '0.7em'
-          }}
-        >
-          {siteTitle}
-        </Link>
-      </h1>
-   </div>
+    <div className="App container" style={{"padding-top": '1em', "padding-bottom": '1em'}}>
+      <Navbar fluid collapseOnSelect>
+        <Navbar.Header>
+          <Navbar.Brand>
+            <Link to="/" style={{fontSize: '2em', "padding-left": '2rem'}}>Coding for Economists</Link>
+            <Link to="/contact/" style={{float: 'right', "padding-left":'3em', "padding-right": '3em'}}>Contact</Link>
+            <Link to="/about/" style={{float: 'right'}}>About</Link>
+          </Navbar.Brand>
+        </Navbar.Header>
+      </Navbar>
+    </div>
   </div>
 )
 

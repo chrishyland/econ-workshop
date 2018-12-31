@@ -29,15 +29,10 @@ print(x)
 
 type(x)
 ```
-
+```
     100
-
-
-
-
-
     int
-
+```
 
 
 We can perform basic mathematical operations using these variables:
@@ -53,10 +48,10 @@ z = x + y
 print(z)
 print(x + y) # We don't NEED to define a new variable
 ```
-
+```
     11
     11
-
+```
 
 ### Strings
 
@@ -70,15 +65,10 @@ x = 'Hello World'
 print(x)
 type(x)
 ```
-
+```
     Hello World
-
-
-
-
-
     str
-
+```
 
 
 Strings are **NOT** treated the same way as integers. It might not be clear right now why this is a problem, but we will see an exercise where it is. 
@@ -92,9 +82,9 @@ y = "dog"
 
 print(x + y)
 ```
-
+```
     catdog
-
+```
 
 Something worthwhile to point out is that you cannot concatenate a string and an integer together.
 
@@ -106,7 +96,7 @@ units = " kilos"
 print(quantity + units)
 ```
 
-
+```
     ---------------------------------------------------------------------------
 
     TypeError                                 Traceback (most recent call last)
@@ -118,7 +108,7 @@ print(quantity + units)
     
 
     TypeError: unsupported operand type(s) for +: 'int' and 'str'
-
+```
 
 What we have to do instead is to turn the integer quantity into a string using the _str_ command before we can concatenate them together.
 
@@ -126,9 +116,9 @@ What we have to do instead is to turn the integer quantity into a string using t
 ```python
 print(str(quantity) + units)
 ```
-
+```
     5 kilos
-
+```
 
 ### Floats
 
@@ -143,9 +133,9 @@ type(z)
 
 
 
-
+```
     float
-
+```
 
 
 ### Lists
@@ -160,10 +150,10 @@ print(x)
 y = ['Hello', 'World']
 print(y)
 ```
-
+```
     [1, 2, 3, 4, 5]
     ['Hello', 'World']
-
+```
 
 We can perform functions on lists, for example we may be interested in how many elements are within the list, or we may be interested in a specfic object within the list. These are very basic examples and there are far more functions, but for now these will do.
 
@@ -175,9 +165,9 @@ x[1] # Python indexing begins at 0!
 
 
 
-
+```
     2
-
+```
 
 
 Notice that in Python and other programming languages, you start counting from 0 rather than 1. In our list x, the value 1 is actually located at the index 0 whilst the value 2 is located in the index 1.
@@ -188,9 +178,10 @@ print("The value at index 0 is " + str(x[0]))
 print("The value at index 1 is " + str(x[1]))
 ```
 
+```
     The value at index 0 is 1
     The value at index 1 is 2
-
+```
 
 ### Dictionaries
 
@@ -211,9 +202,9 @@ x['Chris']
 
 
 
-
+```
     'Mangos'
-
+```
 
 
 Notice that it doesn't work the other way around
@@ -223,7 +214,7 @@ Notice that it doesn't work the other way around
 x['Mangos']
 ```
 
-
+```
     ---------------------------------------------------------------------------
 
     KeyError                                  Traceback (most recent call last)
@@ -233,7 +224,7 @@ x['Mangos']
     
 
     KeyError: 'Mangos'
-
+```
 
 We can set anything to be a value, integers, floats, lists, and even more dictionaries!
 
@@ -254,10 +245,10 @@ nested_dict
 
 
 
-
+```
     {'Girls': {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'},
      'Guys': {'Varun': 'Apples', 'Chris': 'Mangos', 'Pat': 'Banannas'}}
-
+```
 
 
 
@@ -267,9 +258,9 @@ nested_dict['Girls']
 
 
 
-
+```
     {'Rowena': 'Durians', 'Jan': 'Pears', 'Sam': 'Kiwis'}
-
+```
 
 
 ## 1.2 Functions, For Loops and If Statements
@@ -287,18 +278,15 @@ def my_function(x):  # We need to specify a function handle, and some arguments
     return (y)
 ```
 
-This function takes in some object ```x``` as an input, and doubles it. It is clear from this then that the object ```x``` must be an integer or float. 
+This function takes in some object _x_ as an input, and doubles it. It is clear from this then that the object _x_ must be an integer or float. 
 
 
 ```python
 my_function(5)
 ```
-
-
-
-
+```
     10
-
+```
 
 
 We can also define functions with respect to strings:
@@ -317,9 +305,9 @@ exclamation('I want to go home')
 
 
 
-
+```
     'I want to go home!'
-
+```
 
 
 A function doesn't necessarily have to return things either. These are known as _void_ functions.
@@ -343,8 +331,9 @@ value = my_function(5)
 print(value)
 ```
 
+```
     10
-
+```
 
 So you see that value has the number 10 associated with it, which came from the function. Let's look at void functions.
 
@@ -354,8 +343,9 @@ value_two = strange_func("Charles")
 print(value_two)
 ```
 
+```
     None
-
+```
 
 Here we have None associated with our value_two variable, unlike in our previous example. This highlights what happens when we don't return variables in our functions.
 
@@ -369,8 +359,9 @@ numbers = [1,2,3,4,5]
 print(numbers)
 ```
 
+```
     [1, 2, 3, 4, 5]
-
+```
 
 I want to apply some complex function to each element of my list. In order to do this, I need to first define a function and then use a for loop.
 
@@ -389,12 +380,13 @@ for number in numbers:
     print(out)
 ```
 
+```
     6
     35
     262
     1077
     3230
-
+```
 
 Perhaps a more practical example involves applying this function and then 'storing' them in a list so that I can do something else with these values
 
@@ -431,14 +423,14 @@ for element in numbers:
     else:
         print('Not Great')
 ```
-
+```
     Not Great
     Not Great
     Great
     Not Great
     Not Great
     Not Great
-
+```
 
 
 ```python
@@ -449,13 +441,14 @@ for element in numbers:
         print('Not Great')
 ```
 
+```
     Not Great
     Great
     Not Great
     Great
     Not Great
     Great
-
+```
 
 It is worth highlighting the difference between the = and == operator.
 
@@ -474,9 +467,9 @@ if x == "cat":
 if x == "dog":
     print("Woof")
 ```
-
+```
     Woof
-
+```
 
 ## 1.3 Pandas, CSV Files and Working With Real Data
 

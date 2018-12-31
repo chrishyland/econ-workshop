@@ -4,8 +4,7 @@ description: An introduction to working with data in Python
 date: '2018-12-29'
 ---
 
-# Introduction
-### Terminology
+## Terminology
 
 We give a quick refresher of maximum likelihood. 
 

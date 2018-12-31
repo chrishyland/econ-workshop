@@ -4,7 +4,6 @@ description: Running Models and Diagnosing them in Python
 date: '2018-12-28'
 ---
 
-# Introduction to Simulation Techniques
 ## Why Simulations?
 
 Before we begin, we first ask why do we even need computational techniques. An answer to this is that there are many reasons why we need computational techniques, as they can help us in scenarios such as

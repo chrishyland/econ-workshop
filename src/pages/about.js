@@ -15,7 +15,7 @@ const AboutPage = (props) => {
         
         <h3 style={{textAlign: 'left', fontFamily: 'arial, monospace' }}>The Organisers</h3>
         <h4 style={{textAlign: 'left', fontFamily: 'arial, monospace' }}>Varun Satish</h4>
-        <p>Varun is currently pursuing his honours in Economics, having self-taught himself programming. He has interned at the USYD Center For Translational Data Science, served as a research assistant to a wide range of Economics researchers and political scientists, and tutored in the Economics department.</p>
+        <p>Varun is currently pursuing his honours in Economics, having self-taught himself programming. He has interned USYD’s Centre For Translational Data Science, served as a research assistant in the School of Economics and the School of Political and Social Sciences, and tutors in the Economics department.</p>
         <h4 style={{textAlign: 'right', fontFamily: 'arial, monospace' }}>Chris Hyland</h4>
         <p style={{textAlign: 'right'}}> Chris is currently in his final year as an undergraduate with majors in Computer Science, Mathematics, Econometrics, and Statistics. He has interned as a One-Delta Equity Trade Quant at Goldman Sachs, worked as a research assistant in computational economics at ANU, former head tutor in the Econometrics department, and launched a pro-bono data science consulting organisation.</p>
     </Layout>
